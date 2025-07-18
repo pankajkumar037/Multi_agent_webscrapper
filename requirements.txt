@@ -1,0 +1,12 @@
+streamlit
+autogen-agentchat
+playwright
+pandas
+beautifulsoup4
+requests
+aiohttp
+asyncio
+plotly
+altair
+python-dotenv
+openai

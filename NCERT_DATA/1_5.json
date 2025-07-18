@@ -1,0 +1,1201 @@
+{
+  "Class 1": {
+    "English (Marigold-1)": [
+      {
+        "unit": "Unit 1",
+        "chapter_name": "A Happy Child (Poem) & Three Little Pigs (Story)",
+        "headings": ["Let's Read", "Reading is Fun", "Let's Talk", "Let's Draw", "Let's Act"]
+      },
+      {
+        "unit": "Unit 2",
+        "chapter_name": "After a Bath (Poem) & The Bubble, the Straw, and the Shoe (Story)",
+        "headings": ["Let's Read", "Reading is Fun", "Let's Talk", "Let's Share", "Let's Draw"]
+      },
+      {
+        "unit": "Unit 3",
+        "chapter_name": "One Little Kitten (Poem) & Lalu and Peelu (Story)",
+        "headings": ["Enjoy this Poem", "Let's Read", "Reading is Fun", "Let's Talk", "Let's Draw"]
+      },
+      {
+        "unit": "Unit 4",
+        "chapter_name": "Once I Saw a Little Bird (Poem) & Mittu and the Yellow Mango (Story)",
+        "headings": ["Let's Read and Enjoy", "Reading is Fun", "Let's Talk", "Let's Share", "Let's Do"]
+      },
+      {
+        "unit": "Unit 5",
+        "chapter_name": "Merry-Go-Round (Poem) & Circle (Story)",
+        "headings": ["Let's Read", "Reading is Fun", "Let's Talk", "Let's Make", "Let's Draw"]
+      },
+      {
+        "unit": "Unit 6",
+        "chapter_name": "If I Were an Apple (Poem) & Our Tree (Story)",
+        "headings": ["Read and Enjoy", "Reading is Fun", "Let's Talk", "Let's Share", "Let's Read and Write"]
+      },
+      {
+        "unit": "Unit 7",
+        "chapter_name": "A Kite (Poem) & Sundari (Story)",
+        "headings": ["Let's Read", "Reading is Fun", "Let's Talk", "Let's Do", "Let's Read and Write"]
+      },
+      {
+        "unit": "Unit 8",
+        "chapter_name": "A Little Turtle (Poem) & The Tiger and the Mosquito (Story)",
+        "headings": ["Read and Enjoy this Poem", "Reading is Fun", "Let's Talk", "Let's Share", "Let's Write"]
+      },
+      {
+        "unit": "Unit 9",
+        "chapter_name": "Clouds (Poem) & Anandi’s Rainbow (Story)",
+        "headings": ["Enjoy this Poem", "Reading is Fun", "Let's Talk", "Let's Share", "Let's Read and Write", "Let's Make"]
+      },
+      {
+        "unit": "Unit 10",
+        "chapter_name": "Flying-Man (Poem) & The Tailor and his Friend (Story)",
+        "headings": ["Let's Read", "Reading is Fun", "Let's Talk", "Let's Act", "Let's Read and Write"]
+      }
+    ],
+    "Mathematics (Math-Magic 1)": [
+      {
+        "chapter_name": "Chapter 1: Shapes and Space",
+        "headings": ["Inside-Outside", "Bigger-Smaller", "Biggest-Smallest", "Top-Bottom", "Nearer-Farther", "Nearest-Farthest", "On-Under, Above-Below", "Shapes around Us", "Rolling-Sliding", "Wise Grandmother Story", "Match the shapes", "Colour the shapes"]
+      },
+      {
+        "chapter_name": "Chapter 2: Numbers from One to Nine",
+        "headings": ["As Many as", "Counting", "Count and Match", "One, Two, Three, Four, Five", "Six, Seven, Eight, Nine", "What is Missing?", "Zero"]
+      },
+      {
+        "chapter_name": "Chapter 3: Addition",
+        "headings": ["One More", "How many altogether?", "Addition", "Add and Match", "Add and write"]
+      },
+      {
+        "chapter_name": "Chapter 4: Subtraction",
+        "headings": ["Take Away", "Subtraction", "Subtract and Match", "Write the missing numbers"]
+      },
+      {
+        "chapter_name": "Chapter 5: Numbers from Ten to Twenty",
+        "headings": ["Make a Group of 10", "Counting from 10 to 20", "Tick the group with more objects", "Complete the table"]
+      },
+      {
+        "chapter_name": "Chapter 6: Time",
+        "headings": ["Activities during the day", "Sequencing Daily Activities", "Ordering events"]
+      },
+      {
+        "chapter_name": "Chapter 7: Measurement",
+        "headings": ["Longer-Shorter", "Longest-Shortest", "Taller-Shorter", "Tallest-Shortest", "Thicker-Thinner", "Thickest-Thinnest", "Heavier-Lighter", "Heaviest-Lightest", "Measurement by hand span"]
+      },
+      {
+        "chapter_name": "Chapter 8: Numbers from Twenty-one to Fifty",
+        "headings": ["Fill in the blanks", "Write the missing numbers", "Counting in tens and ones"]
+      },
+      {
+        "chapter_name": "Chapter 9: Data Handling",
+        "headings": ["Counting Shapes", "Counting Names", "Counting Animals"]
+      },
+      {
+        "chapter_name": "Chapter 10: Patterns",
+        "headings": ["Extend the sequence", "What comes next in the sequence?", "Fill in the numbers to complete the pattern", "Complete the pattern"]
+      },
+      {
+        "chapter_name": "Chapter 11: Numbers",
+        "headings": ["Numbers from 51 to 70", "Numbers from 71 to 90", "Numbers from 91 to 100", "Missing numbers chart"]
+      },
+      {
+        "chapter_name": "Chapter 12: Money",
+        "headings": ["Identifying Coins and Notes", "Matching coins to items", "Shopping scenarios"]
+      },
+      {
+        "chapter_name": "Chapter 13: How Many",
+        "headings": ["Count and write the number of sticks", "How many beads?", "How much will the bananas cost?", "How many in a name?"]
+      }
+    ],
+    "Hindi (Rimjhim-1)": [
+      {
+        "chapter_name": "पाठ 1: झूला (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास", "सोचो और बताओ"]
+      },
+      {
+        "chapter_name": "पाठ 2: आम की कहानी (चित्रकथा)",
+        "headings": ["चित्र देखो और कहानी बनाओ", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 3: आम की टोकरी (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 4: पत्ते ही पत्ते (कहानी)",
+        "headings": ["कहानी वाचन", "कैसे थे पत्ते", "अब करने की बारी"]
+      },
+      {
+        "chapter_name": "पाठ 5: पकौड़ी (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 6: छुक-छुक गाड़ी (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास", "रंग भरो"]
+      },
+      {
+        "chapter_name": "पाठ 7: रसोईघर (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास", "काम ही काम"]
+      },
+      {
+        "chapter_name": "पाठ 8: चूहो, म्याऊँ सो रही है (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास", "पढ़ो और मिलाओ"]
+      },
+      {
+        "chapter_name": "पाठ 9: बंदर और गिलहरी (कहानी)",
+        "headings": ["कहानी वाचन", "अभ्यास", "क्या-क्या"]
+      },
+      {
+        "chapter_name": "पाठ 10: पगड़ी (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 11: पतंग (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 12: गेंद-बल्ला (कहानी)",
+        "headings": ["कहानी वाचन", "अभ्यास", "कौन, किसमें क्या?"]
+      },
+      {
+        "chapter_name": "पाठ 13: बंदर गया खेत में भाग (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास", "क्या बिछाया, क्या ओढ़ा"]
+      },
+      {
+        "chapter_name": "पाठ 14: एक बुढ़िया (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 15: मैं भी (कहानी)",
+        "headings": ["कहानी वाचन", "अभ्यास", "नाम दो"]
+      },
+      {
+        "chapter_name": "पाठ 16: लालू और पीलू (कहानी)",
+        "headings": ["कहानी वाचन", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 17: चकई के चकदुम (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 18: छोटी का कमाल (कहानी)",
+        "headings": ["कहानी वाचन", "अभ्यास", "कौन लंबा, कौन छोटा"]
+      },
+      {
+        "chapter_name": "पाठ 19: चार चने (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 20: भगदड़ (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 21: हलीम चला चाँद पर (कहानी)",
+        "headings": ["कहानी वाचन", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 22: हाथी चल्लम चल्लम (कविता)",
+        "headings": ["कविता वाचन", "अभ्यास"]
+      },
+      {
+        "chapter_name": "पाठ 23: सात पूँछ का चूहा (कहानी)",
+        "headings": ["कहानी वाचन", "अभ्यास"]
+      }
+    ]
+  },
+  "Class 2": {
+    "English (Marigold-2)": [
+      {
+        "unit": "Unit 1",
+        "chapter_name": "First Day at School (Poem) & Haldi’s Adventure (Story)",
+        "headings": ["Let's Recite", "Fun with new words", "Reading is Fun", "Let's Talk", "Let's Write"]
+      },
+      {
+        "unit": "Unit 2",
+        "chapter_name": "I am Lucky! (Poem) & I Want (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Let's Write", "Let's Act"]
+      },
+      {
+        "unit": "Unit 3",
+        "chapter_name": "A Smile (Poem) & The Wind and the Sun (Story)",
+        "headings": ["Reading is Fun", "Let's Read", "Word Fun", "Let's Write"]
+      },
+      {
+        "unit": "Unit 4",
+        "chapter_name": "Rain (Poem) & Storm in the Garden (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Let's Share", "Let's Write"]
+      },
+      {
+        "unit": "Unit 5",
+        "chapter_name": "Zoo Manners (Poem) & Funny Bunny (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Let's Listen", "Let's Sing and Act"]
+      },
+      {
+        "unit": "Unit 6",
+        "chapter_name": "Mr. Nobody (Poem) & Curlylocks and the Three Bears (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Let's Act", "Let's Write"]
+      },
+      {
+        "unit": "Unit 7",
+        "chapter_name": "On My Blackboard I Can Draw (Poem) & Make it Shorter (Story)",
+        "headings": ["Reading is Fun", "Say Aloud", "Let's Draw", "Let's Write"]
+      },
+      {
+        "unit": "Unit 8",
+        "chapter_name": "I am the Music Man (Poem) & The Mumbai Musicians (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Let's Write", "Let's Act"]
+      },
+      {
+        "unit": "Unit 9",
+        "chapter_name": "Granny Granny Please Comb my Hair (Poem) & The Magic Porridge Pot (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 10",
+        "chapter_name": "Strange Talk (Poem) & The Grasshopper and the Ant (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Let's Write", "Team Time"]
+      }
+    ],
+    "Mathematics (Math-Magic 2)": [
+      {
+        "chapter_name": "Chapter 1: What is Long, What is Round?",
+        "headings": ["Guess its Name", "What Rolls, What Slides?", "Wise Old Bird", "Building a Tower", "Coin Play"]
+      },
+      {
+        "chapter_name": "Chapter 2: Counting in Groups",
+        "headings": ["Look and Guess the Number", "Counting in Tens", "The Story of the Flute Man and the Rats", "Counting in Groups"]
+      },
+      {
+        "chapter_name": "Chapter 3: How Much Can You Carry?",
+        "headings": ["The Clever Donkey and his Sack of Cotton", "Raju Wants to Ride a See-saw", "Heavier or Lighter", "Making Weights"]
+      },
+      {
+        "chapter_name": "Chapter 4: Counting in Tens",
+        "headings": ["Chicks and the Clever Fox", "Bhanu Collects Sticks", "How many are these?", "The Wedding of Mr. Tortoise"]
+      },
+      {
+        "chapter_name": "Chapter 5: Patterns",
+        "headings": ["Bini's and Gini's Same Shawls", "Patterns Around Us", "Number Patterns", "Even and Odd Number Patterns"]
+      },
+      {
+        "chapter_name": "Chapter 6: Footprints",
+        "headings": ["Trace these things", "Matching Shapes", "Tarani's Shapes", "The Dancer's Designs"]
+      },
+      {
+        "chapter_name": "Chapter 7: Jugs and Mugs",
+        "headings": ["Make and Enjoy Lemon Drink", "Finding out how many drops", "Fun in Filling Vessels", "The Thirsty Crow Story"]
+      },
+      {
+        "chapter_name": "Chapter 8: Tens and Ones",
+        "headings": ["Help me!", "Bangle Throw Game", "The Flute Man and the Rats", "Clean School Day"]
+      },
+      {
+        "chapter_name": "Chapter 9: My Funday",
+        "headings": ["One day, Monday...", "Days of the week", "Teacher-Teacher Game", "Months of the Year", "My Favourite Month"]
+      },
+      {
+        "chapter_name": "Chapter 10: Add our Points",
+        "headings": ["Toss the Ball", "The Snake and Ladder Game", "Adding using a number line", "Smart Adding"]
+      },
+      {
+        "chapter_name": "Chapter 11: Lines and Lines",
+        "headings": ["Whose Line is it?", "Lines in Pictures", "Fun with Lines", "Dancing Lines"]
+      },
+      {
+        "chapter_name": "Chapter 12: Give and Take",
+        "headings": ["Kinnari sells beads", "Subtraction", "Practice Time", "Solving problems"]
+      },
+      {
+        "chapter_name": "Chapter 13: The Longest Step",
+        "headings": ["Measuring with body parts", "Measuring with objects", "Activity"]
+      },
+      {
+        "chapter_name": "Chapter 14: Birds Come, Birds Go",
+        "headings": ["Counting birds", "How many cranes and swans?", "Practice Time: Addition and Subtraction"]
+      },
+      {
+        "chapter_name": "Chapter 15: How Many Ponytails?",
+        "headings": ["Counting objects", "Data Handling", "Looking at data charts"]
+      }
+    ],
+    "Hindi (Rimjhim-2)": [
+      {
+        "chapter_name": "पाठ 1: ऊँट चला (कविता)",
+        "headings": ["कविता वाचन", "कितना ऊँचा", "सफर का सामान"]
+      },
+      {
+        "chapter_name": "पाठ 2: भालू ने खेली फुटबॉल (कहानी)",
+        "headings": ["कहानी वाचन", "कहानी से", "क्या होता अगर..."]
+      },
+      {
+        "chapter_name": "पाठ 3: म्याऊँ, म्याऊँ !! (कविता)",
+        "headings": ["कविता वाचन", "सुहानी की बात", "नोक वाली चीज़ें"]
+      },
+      {
+        "chapter_name": "पाठ 4: अधिक बलवान कौन? (कहानी)",
+        "headings": ["कहानी वाचन", "अभ्यास", "शब्दों का खेल"]
+      },
+      {
+        "chapter_name": "पाठ 5: दोस्त की मदद (कहानी)",
+        "headings": ["कहानी वाचन", "अभ्यास", "तुम्हारी समझ"]
+      },
+      {
+        "chapter_name": "पाठ 6: बहुत हुआ (कविता)",
+        "headings": ["कविता वाचन", "बरसात", "बचाओ"]
+      },
+      {
+        "chapter_name": "पाठ 7: मेरी किताब (कहानी)",
+        "headings": ["कहानी वाचन", "बातें किताबों की", "नाप-तौल"]
+      },
+      {
+        "chapter_name": "पाठ 8: तितली और कली (कविता)",
+        "headings": ["कविता वाचन", "कविता से", "महक"]
+      },
+      {
+        "chapter_name": "पाठ 9: बुलबुल (वर्णन)",
+        "headings": ["बुलबुल का वर्णन", "पहचानो", "हमें पहचानो"]
+      },
+      {
+        "chapter_name": "पाठ 10: मीठी सारंगी (कहानी)",
+        "headings": ["कहानी वाचन", "सारंगी की मिठास", "कहानी से"]
+      },
+      {
+        "chapter_name": "पाठ 11: टेसू राजा बीच बाज़ार (कविता)",
+        "headings": ["कविता वाचन", "गिनत-अनगिनत", "बाज़ार"]
+      },
+      {
+        "chapter_name": "पाठ 12: बस के नीचे बाघ (कहानी)",
+        "headings": ["कहानी वाचन", "डर-निडर", "क्या होता अगर"]
+      },
+      {
+        "chapter_name": "पाठ 13: सूरज जल्दी आना जी (कविता)",
+        "headings": ["कविता वाचन", "रंगों की बात", "कौन सा बहाना"]
+      },
+      {
+        "chapter_name": "पाठ 14: नटखट चूहा (कहानी)",
+        "headings": ["कहानी वाचन", "तुम्हारी समझ से", "अंगूठे की छाप"]
+      },
+      {
+        "chapter_name": "पाठ 15: एक्की-दुक्की (कहानी)",
+        "headings": ["कहानी वाचन", "कहानी से", "नाम और काम"]
+      }
+    ]
+  },
+  "Class 3": {
+    "English (Marigold-3)": [
+      {
+        "unit": "Unit 1",
+        "chapter_name": "Good Morning (Poem) & The Magic Garden (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 2",
+        "chapter_name": "Bird Talk (Poem) & Nina and the Baby Sparrows (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Team Time", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 3",
+        "chapter_name": "Little by Little (Poem) & The Enormous Turnip (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 4",
+        "chapter_name": "Sea Song (Poem) & A Little Fish Story (Story)",
+        "headings": ["Reading is Fun", "Word Building", "Let's Talk", "Let's Write"]
+      },
+      {
+        "unit": "Unit 5",
+        "chapter_name": "The Balloon Man (Poem) & The Yellow Butterfly (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 6",
+        "chapter_name": "Trains (Poem) & The Story of the Road (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Team Time", "Let's Write"]
+      },
+      {
+        "unit": "Unit 7",
+        "chapter_name": "Puppy and I (Poem) & Little Tiger, Big Tiger (Story)",
+        "headings": ["Reading is Fun", "Word Building", "Let's Talk", "Let's Write"]
+      },
+      {
+        "unit": "Unit 8",
+        "chapter_name": "What’s in the Mailbox? (Poem) & My Silly Sister (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 9",
+        "chapter_name": "Don’t Tell (Poem) & He is My Brother (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 10",
+        "chapter_name": "How Creatures Move (Poem) & The Ship of the Desert (Story)",
+        "headings": ["Reading is Fun", "Word Building", "Let's Talk", "Let's Write"]
+      }
+    ],
+    "Mathematics (Math-Magic 3)": [
+      {
+        "chapter_name": "Chapter 1: Where to Look From?",
+        "headings": ["Our Teacher Told Us to Draw a Car", "Have You Looked at Things from Different Sides?", "Rangoli", "Mirror Halves", "Using a Dotted Line"]
+      },
+      {
+        "chapter_name": "Chapter 2: Fun with Numbers",
+        "headings": ["Radhika, Gauri, Vicky, Indra and Sunil were collecting Imli", "Number Chart", "Jumping Animals", "Lazy Crazy Shop"]
+      },
+      {
+        "chapter_name": "Chapter 3: Give and Take",
+        "headings": ["A Cricket Match", "Addition and Subtraction", "Card Game", "Practice Time"]
+      },
+      {
+        "chapter_name": "Chapter 4: Long and Short",
+        "headings": ["Measuring Length", "The Longest and Shortest", "Metres and Centimetres", "The Race", "Measuring a Tree"]
+      },
+      {
+        "chapter_name": "Chapter 5: Shapes and Designs",
+        "headings": ["Make a Clapper", "Fun with Shapes", "Edges and Corners", "Tangram", "Weaving Patterns", "Floor Patterns"]
+      },
+      {
+        "chapter_name": "Chapter 6: Fun with Give and Take",
+        "headings": ["Cricket Match Subtraction", "Practice Time", "Checking Subtraction using Addition", "Word Problems"]
+      },
+      {
+        "chapter_name": "Chapter 7: Time Goes On...",
+        "headings": ["Ulta Pulta Time", "Reading the Calendar", "Story of a Family", "Making a Timeline"]
+      },
+      {
+        "chapter_name": "Chapter 8: Who is Heavier?",
+        "headings": ["Gur and Groundnuts", "Making a Balance", "Grams and Kilograms", "Practice Time"]
+      },
+      {
+        "chapter_name": "Chapter 9: How Many Times?",
+        "headings": ["Leggy Animals", "Repeated Addition is Multiplication", "Stick Play", "Shopping with Tables", "Multiplication Tables"]
+      },
+      {
+        "chapter_name": "Chapter 10: Play with Patterns",
+        "headings": ["Patterns Around Us", "Picture Patterns", "Number Patterns", "Secret Messages"]
+      },
+      {
+        "chapter_name": "Chapter 11: Jugs and Mugs",
+        "headings": ["Wedding in the Family", "Bunny and Banno Celebrate", "Measuring Capacity", "Litre and Millilitre"]
+      },
+      {
+        "chapter_name": "Chapter 12: Can We Share?",
+        "headings": ["Making Groups", "Division", "Jumpy Animals", "How many Shelves?"]
+      },
+      {
+        "chapter_name": "Chapter 13: Smart Charts!",
+        "headings": ["Flowers of Different Colours", "Representing Data", "Making Tally Marks", "Hot and Cold Chart"]
+      },
+      {
+        "chapter_name": "Chapter 14: Rupees and Paise",
+        "headings": ["Money Game", "Shopping", "Making Bills", "Practice Time"]
+      }
+    ],
+    "Environmental Studies (Looking Around-3)": [
+      {
+        "chapter_name": "Chapter 1: Poonam’s Day Out",
+        "headings": ["Animals at the pond", "Different animals, different places", "Animal sounds", "How animals move", "Animal habitats"]
+      },
+      {
+        "chapter_name": "Chapter 2: The Plant Fairy",
+        "headings": ["The Plant Fairy Game", "Types of plants (herbs, shrubs, trees)", "Parts of a plant", "Colours in leaves", "Leaf rubbings"]
+      },
+      {
+        "chapter_name": "Chapter 3: Water O’ Water!",
+        "headings": ["Poem on water", "Sources of water", "Uses of water", "Storing water", "Water for whom?"]
+      },
+      {
+        "chapter_name": "Chapter 4: Our First School",
+        "headings": ["My Family", "Family tree", "Relationships in a family", "How family members help each other"]
+      },
+      {
+        "chapter_name": "Chapter 5: Chhotu’s House",
+        "headings": ["A house in a pipe", "Parts of a house", "Cleanliness in the house", "Uninvited guests (animals) in our house"]
+      },
+      {
+        "chapter_name": "Chapter 6: Foods We Eat",
+        "headings": ["Variety in food", "What did you eat yesterday?", "Vipul's family", "What we can and cannot eat"]
+      },
+      {
+        "chapter_name": "Chapter 7: Saying without Speaking",
+        "headings": ["Dumb Charades", "Facial expressions", "Hand gestures (Mudras)", "Understanding others' feelings"]
+      },
+      {
+        "chapter_name": "Chapter 8: Flying High",
+        "headings": ["Riddles about birds", "Features of birds (beaks, feathers, claws)", "Bird sounds", "What birds eat"]
+      },
+      {
+        "chapter_name": "Chapter 9: It’s Raining",
+        "headings": ["Appu ate bananas", "Clouds and rain", "Importance of rain", "Rainbow"]
+      },
+      {
+        "chapter_name": "Chapter 10: What is Cooking",
+        "headings": ["Utensils", "Methods of cooking", "Things we eat raw or cooked", "Making sprouts"]
+      },
+      {
+        "chapter_name": "Chapter 11: From Here to There",
+        "headings": ["The Train (Poem)", "Means of transport", "Old and new means of transport", "Visiting different places"]
+      },
+      {
+        "chapter_name": "Chapter 12: Work We Do",
+        "headings": ["People and their work (occupations)", "Work at home and outside", "Child labour", "Tools used in different jobs"]
+      },
+      {
+        "chapter_name": "Chapter 13: Sharing Our Feelings",
+        "headings": ["Seema and Ravi bhaiyya", "Helping people with special needs", "Braille script", "Sensitivity towards others"]
+      },
+      {
+        "chapter_name": "Chapter 14: The Story of Food",
+        "headings": ["Venu's Family and Rani's Family", "Where does food come from?", "Journey of food (from farm to plate)"]
+      },
+      {
+        "chapter_name": "Chapter 15: Making Pots",
+        "headings": ["Bhanate, the potter", "Process of making clay pots", "Things made from clay"]
+      },
+      {
+        "chapter_name": "Chapter 16: Games We Play",
+        "headings": ["Traditional games (Stapoo, Langrhi tang)", "Indoor and outdoor games", "Playing together"]
+      },
+      {
+        "chapter_name": "Chapter 17: Here comes a Letter",
+        "headings": ["Journey of a letter", "Means of communication (old and new)", "Writing a letter"]
+      },
+      {
+        "chapter_name": "Chapter 18: A House Like This!",
+        "headings": ["Different types of houses", "Houses in different regions (Assam, Manali, Rajasthan, Kashmir)", "Materials used for building houses"]
+      },
+      {
+        "chapter_name": "Chapter 19: Our Friends – Animals",
+        "headings": ["Caring for animals", "The bird bath", "Animals in our homes", "Why animals come to us"]
+      },
+      {
+        "chapter_name": "Chapter 20: Drop by Drop",
+        "headings": ["Water scarcity in Rajasthan", "Traditional ways of water conservation (Tankas)", "Saving water"]
+      },
+      {
+        "chapter_name": "Chapter 21: Families can be Different",
+        "headings": ["Different types of families", "Reasons for changes in families", "Family customs"]
+      },
+      {
+        "chapter_name": "Chapter 22: Left-Right",
+        "headings": ["Understanding directions", "Making maps and symbols", "Following a route on a map"]
+      },
+      {
+        "chapter_name": "Chapter 23: A Beautiful Cloth",
+        "headings": ["Types of cloth work (weaving, printing, dyeing)", "Traditional fabrics and designs"]
+      },
+      {
+        "chapter_name": "Chapter 24: Web of Life",
+        "headings": ["Interdependence in nature", "Connecting different components of the environment (sun, water, plants, animals, humans)"]
+      }
+    ],
+    "Hindi (Rimjhim-3)": [
+      {
+        "chapter_name": "पाठ 1: कक्कू (कविता)",
+        "headings": ["कविता वाचन", "नाम ही नाम", "तुम अपना नाम लिखो और बताओ"]
+      },
+      {
+        "chapter_name": "पाठ 2: शेखीबाज़ मक्खी (कहानी)",
+        "headings": ["कहानी वाचन", "कैसी लगी कहानी", "कौन क्या"]
+      },
+      {
+        "chapter_name": "पाठ 3: चाँद वाली अम्मा (कहानी)",
+        "headings": ["कहानी वाचन", "तुम्हारी कल्पना से", "काम कौन करता है"]
+      },
+      {
+        "chapter_name": "पाठ 4: मन करता है (कविता)",
+        "headings": ["कविता वाचन", "सोचो और बताओ", "कौन, क्या कर सकता है"]
+      },
+      {
+        "chapter_name": "पाठ 5: बहादुर बित्तो (पंजाबी लोककथा)",
+        "headings": ["कहानी वाचन", "कहानी में ढूँढ़ो", "पहचानो तो"]
+      },
+      {
+        "chapter_name": "पाठ 6: हमसे सब कहते (कविता)",
+        "headings": ["कविता वाचन", "नया शीर्षक", "कौन किस पर अकड़ जमाता होगा"]
+      },
+      {
+        "chapter_name": "पाठ 7: टिपतिपवा (उत्तर प्रदेश की लोककथा)",
+        "headings": ["कहानी वाचन", "कौन किससे परेशान", "याद करो तो"]
+      },
+      {
+        "chapter_name": "पाठ 8: बंदर-बाँट (नाटक)",
+        "headings": ["नाटक पठन", "लड़ाई-झगड़ा", "एक से दो"]
+      },
+      {
+        "chapter_name": "पाठ 9: अक्ल बड़ी या भैंस (कहानी)",
+        "headings": ["कहानी वाचन", "तुम्हारी बारी", "कहो कहानी"]
+      },
+      {
+        "chapter_name": "पाठ 10: क्योंज़ीमल और कैसे कैसलिया (कहानी)",
+        "headings": ["कहानी वाचन", "तुम्हारी समझ में क्या आया", "रोटी कैसे बनेगी"]
+      },
+      {
+        "chapter_name": "पाठ 11: मीरा बहन और बाघ (कहानी)",
+        "headings": ["कहानी वाचन", "कहानी से", "खतरनाक है या नहीं"]
+      },
+      {
+        "chapter_name": "पाठ 12: जब मुझे साँप ने काटा (संस्मरण)",
+        "headings": ["संस्मरण पठन", "तुम्हारी बात", "क्या करें"]
+      },
+      {
+        "chapter_name": "पाठ 13: मिर्च का मज़ा (कविता)",
+        "headings": ["कविता वाचन", "कैसे समझा होगा", "आगे क्या हुआ होगा"]
+      },
+      {
+        "chapter_name": "पाठ 14: सबसे अच्छा पेड़ (कहानी)",
+        "headings": ["कहानी वाचन", "कैसे बताएँगे", "बताओ"]
+      }
+    ]
+  },
+  "Class 4": {
+    "English (Marigold-4)": [
+      {
+        "unit": "Unit 1",
+        "chapter_name": "Wake Up! (Poem) & Neha’s Alarm Clock (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 2",
+        "chapter_name": "Noses (Poem) & The Little Fir Tree (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 3",
+        "chapter_name": "Run! (Poem) & Nasruddin’s Aim (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 4",
+        "chapter_name": "Why? (Poem) & Alice in Wonderland (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 5",
+        "chapter_name": "Don’t be Afraid of the Dark (Poem) & Helen Keller (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 6",
+        "chapter_name": "Hiawatha (Poem) & The Scholar’s Mother Tongue (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 7",
+        "chapter_name": "A Watering Rhyme (Poem) & The Giving Tree (Story) & The Donkey",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 8",
+        "chapter_name": "Books (Poem) & Going to buy a Book (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 9",
+        "chapter_name": "The Naughty Boy (Poem) & Pinocchio (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      }
+    ],
+    "Mathematics (Math-Magic 4)": [
+      {
+        "chapter_name": "Chapter 1: Building with Bricks",
+        "headings": ["Brick Patterns", "Floor Patterns", "A Wall that will not Fall", "Looking Through a Brick Jali", "Mental Math: A Number Puzzle"]
+      },
+      {
+        "chapter_name": "Chapter 2: Long and Short",
+        "headings": ["How Far Apart are the Dots?", "The Shorter Line", "How Tall Have You Grown?", "Long Jump Competition", "Kilometres"]
+      },
+      {
+        "chapter_name": "Chapter 3: A Trip to Bhopal",
+        "headings": ["Waiting for the Buses", "The Journey Begins", "To Bhimbetka", "Lunch Time", "Boating", "Time to Return"]
+      },
+      {
+        "chapter_name": "Chapter 4: Tick-Tick-Tick",
+        "headings": ["Reading the Clock", "The Story of a Clock", "24-Hour Clock", "Calendar Magic", "The Story of a Girl's Diary"]
+      },
+      {
+        "chapter_name": "Chapter 5: The Way The World Looks",
+        "headings": ["Gappu's Air Journey", "Looking at things from the top", "Matching two views of the same pose", "Maps"]
+      },
+      {
+        "chapter_name": "Chapter 6: The Junk Seller",
+        "headings": ["Finding the value of junk", "Smart Kiran Sells the Junk", "Calculating costs", "Practice Time"]
+      },
+      {
+        "chapter_name": "Chapter 7: Jugs and Mugs",
+        "headings": ["Bunny and Banno's Wedding Anniversary", "Measuring Litres and Millilitres", "Practice Time", "Water is Useful"]
+      },
+      {
+        "chapter_name": "Chapter 8: Carts and Wheels",
+        "headings": ["Things that are round", "Drawing Circles", "Games with Circles", "Using a Compass"]
+      },
+      {
+        "chapter_name": "Chapter 9: Halves and Quarters",
+        "headings": ["The Story of Greedy Kunjamma", "Half of many pieces", "Quarter of many pieces", "Patterns with halves and quarters"]
+      },
+      {
+        "chapter_name": "Chapter 10: Play with Patterns",
+        "headings": ["Block Patterns", "Number Patterns", "Secret Messages", "Even and Odd Number Patterns"]
+      },
+      {
+        "chapter_name": "Chapter 11: Tables and Shares",
+        "headings": ["Shyama's Garden", "Jumping Animals", "Multiplication and Division", "Practice Time"]
+      },
+      {
+        "chapter_name": "Chapter 12: How Heavy? How Light?",
+        "headings": ["Jaiju and Mannu's Story", "Grams and Kilograms", "Practice Time", "Post Office Chart"]
+      },
+      {
+        "chapter_name": "Chapter 13: Fields and Fences",
+        "headings": ["Calculating Boundary (Perimeter)", "Ganpat's Field", "Practice Time", "Finding Area"]
+      },
+      {
+        "chapter_name": "Chapter 14: Smart Charts",
+        "headings": ["How Many Hours?", "Tally Marks", "Family Tree", "Growth Chart of a Plant"]
+      }
+    ],
+    "Environmental Studies (Looking Around-4)": [
+      {
+        "chapter_name": "Chapter 1: Going to School",
+        "headings": ["Different ways of going to school (bamboo bridge, trolley, vallam, camel cart)", "Challenges in reaching school", "Jugaad"]
+      },
+      {
+        "chapter_name": "Chapter 2: Ear to Ear",
+        "headings": ["Animals whose ears we can see", "Animals with feathers/scales", "Animal skin patterns", "Putting animals in the right columns"]
+      },
+      {
+        "chapter_name": "Chapter 3: A Day with Nandu",
+        "headings": ["Life in an elephant herd", "Facts about elephants", "Other animals living in herds"]
+      },
+      {
+        "chapter_name": "Chapter 4: The Story of Amrita",
+        "headings": ["Khejadli village", "The Bishnoi community", "Protecting trees and animals", "Importance of trees"]
+      },
+      {
+        "chapter_name": "Chapter 5: Anita and the Honeybees",
+        "headings": ["Anita's story of going to school", "Right to Education Act", "Beekeeping", "Life of honeybees"]
+      },
+      {
+        "chapter_name": "Chapter 6: Omana’s Journey",
+        "headings": ["A train journey", "Observations from a train window", "The railway ticket", "People at the railway station"]
+      },
+      {
+        "chapter_name": "Chapter 7: From the Window",
+        "headings": ["Continuing Omana's journey", "Landscapes seen from the train", "Level crossings", "Tunnels and bridges"]
+      },
+      {
+        "chapter_name": "Chapter 8: Reaching Grandmother’s House",
+        "headings": ["End of Omana's journey", "Using different modes of transport (ferry)", "Details on a railway ticket"]
+      },
+      {
+        "chapter_name": "Chapter 9: Changing Families",
+        "headings": ["Reasons for changes in families (new birth, transfer, marriage)", "Different family systems"]
+      },
+      {
+        "chapter_name": "Chapter 10: Hu Tu Tu, Hu Tu Tu",
+        "headings": ["The game of Kabaddi", "Rules of the game", "Famous women players (Karnam Malleswari)"]
+      },
+      {
+        "chapter_name": "Chapter 11: The Valley of Flowers",
+        "headings": ["Flowers in Uttarakhand", "Different types of flowers", "Uses of flowers", "Madhubani painting"]
+      },
+      {
+        "chapter_name": "Chapter 12: Changing Times",
+        "headings": ["Chetandas's story of moving from Pakistan", "Changes in houses over time", "Materials used for building houses then and now"]
+      },
+      {
+        "chapter_name": "Chapter 13: A River’s Tale",
+        "headings": ["Journey of a river", "Water pollution", "Sources and effects of water pollution", "Purifying water"]
+      },
+      {
+        "chapter_name": "Chapter 14: Basva’s Farm",
+        "headings": ["Farming process of onions", "Tools used in farming (Kurige, Illige)", "From sowing to market"]
+      },
+      {
+        "chapter_name": "Chapter 15: From Market to Home",
+        "headings": ["A day in the life of a vegetable seller", "Sorting vegetables", "Perishable and non-perishable food items"]
+      },
+      {
+        "chapter_name": "Chapter 16: A Busy Month",
+        "headings": ["Birds and their nests", "Nesting habits of different birds", "Bird beaks and claws"]
+      },
+      {
+        "chapter_name": "Chapter 17: Nandita in Mumbai",
+        "headings": ["Life in a big city", "Differences between village and city life", "Slums and high-rise buildings", "Water scarcity in cities"]
+      },
+      {
+        "chapter_name": "Chapter 18: Too Much Water, Too Little Water",
+        "headings": ["Problems of water scarcity and water-borne diseases", "Diarrhoea and vomiting", "Water parks"]
+      },
+      {
+        "chapter_name": "Chapter 19: Abdul in the Garden",
+        "headings": ["Roots of plants", "Types of roots (taproot, fibrous roots)", "Functions of roots", "The Banyan tree and its prop roots"]
+      },
+      {
+        "chapter_name": "Chapter 20: Eating Together",
+        "headings": ["Class party", "Bihu festival in Assam", "Making Bhela ghar and eating together", "Mid-day meal in school"]
+      },
+      {
+        "chapter_name": "Chapter 21: Food and Fun",
+        "headings": ["Life in a boarding school", "Eating in a Gurudwara (langar)", "Community cooking and eating"]
+      },
+      {
+        "chapter_name": "Chapter 22: The World in my Home",
+        "headings": ["Disagreements in the family", "Making decisions", "Gender discrimination", "Good and bad touch"]
+      },
+      {
+        "chapter_name": "Chapter 23: Pochampalli",
+        "headings": ["Traditional occupation of weaving", "Pochampalli sarees", "The process of weaving", "Threats to traditional crafts"]
+      },
+      {
+        "chapter_name": "Chapter 24: Home and Abroad",
+        "headings": ["Life in the UAE (Abu Dhabi)", "The desert landscape", "Currency (Dirham)", "Petrol being cheaper than water"]
+      },
+      {
+        "chapter_name": "Chapter 25: Spicy Riddles",
+        "headings": ["Riddles about different spices", "Uses of spices in food and medicine"]
+      },
+      {
+        "chapter_name": "Chapter 26: Defence Officer: Wahida",
+        "headings": ["The story of Wahida Prism Khan", "Life in the armed forces", "The role of a doctor in the Navy", "Leading a parade"]
+      },
+      {
+        "chapter_name": "Chapter 27: Chuskit Goes to School",
+        "headings": ["Life in Ladakh", "Challenges faced by a differently-abled child", "Community help in making a ramp"]
+      }
+    ],
+    "Hindi (Rimjhim-4)": [
+      {
+        "chapter_name": "पाठ 1: मन के भोले-भाले बादल (कविता)",
+        "headings": ["कविता वाचन", "तुम्हारी समझ से", "कैसा, कौन?"]
+      },
+      {
+        "chapter_name": "पाठ 2: जैसा सवाल, वैसा जवाब (कहानी)",
+        "headings": ["कहानी वाचन", "तुम्हारी बात", "एक और शब्द"]
+      },
+      {
+        "chapter_name": "पाठ 3: किरमिच की गेंद (कहानी)",
+        "headings": ["कहानी वाचन", "कहानी की बात", "पहचान"]
+      },
+      {
+        "chapter_name": "पाठ 4: पापा जब बच्चे थे (कहानी)",
+        "headings": ["कहानी वाचन", "सोच-विचार", "परिवार"]
+      },
+      {
+        "chapter_name": "पाठ 5: दोस्त की पोशाक (कहानी)",
+        "headings": ["कहानी वाचन", "तुम्हारे सवाल", "कौन है कैसा"]
+      },
+      {
+        "chapter_name": "पाठ 6: नाव बनाओ, नाव बनाओ (कविता)",
+        "headings": ["कविता वाचन", "कविता से", "आहा! बारिश"]
+      },
+      {
+        "chapter_name": "पाठ 7: दान का हिसाब (कहानी)",
+        "headings": ["कहानी वाचन", "कहानी से", "तुम्हारी समझ"]
+      },
+      {
+        "chapter_name": "पाठ 8: कौन? (कविता)",
+        "headings": ["कविता वाचन", "कविता से", "किससे मिलते-जुलते"]
+      },
+      {
+        "chapter_name": "पाठ 9: स्वतंत्रता की ओर (कहानी)",
+        "headings": ["कहानी वाचन", "प्यारे बापू", "कहानी से आगे"]
+      },
+      {
+        "chapter_name": "पाठ 10: थप्प रोटी थप्प दाल (नाटक)",
+        "headings": ["नाटक पठन", "नाटक में क्या-क्या हुआ", "सोचकर बताओ"]
+      },
+      {
+        "chapter_name": "पाठ 11: पढ़क्कू की सूझ (कविता)",
+        "headings": ["कविता वाचन", "कविता में कहानी", "अर्थ खोजो"]
+      },
+      {
+        "chapter_name": "पाठ 12: सुनीता की पहिया कुरसी (कहानी)",
+        "headings": ["कहानी वाचन", "कहानी से", "मैं भी कुछ कर सकती हूँ"]
+      },
+      {
+        "chapter_name": "पाठ 13: हुदहुद (जानकारी)",
+        "headings": ["हुदहुद का वर्णन", "पहचान के संकेत", "बातचीत"]
+      },
+      {
+        "chapter_name": "पाठ 14: मुफ़्त ही मुफ़्त (गुजराती लोककथा)",
+        "headings": ["कहानी वाचन", "तुम्हारी समझ", "मुफ़्त में"]
+      }
+    ]
+  },
+  "Class 5": {
+    "English (Marigold-5)": [
+      {
+        "unit": "Unit 1",
+        "chapter_name": "Ice-Cream Man (Poem) & Wonderful Waste! (Story)",
+        "headings": ["Reading is Fun", "Let's Write", "Word Building", "Let's Talk"]
+      },
+      {
+        "unit": "Unit 2",
+        "chapter_name": "Teamwork (Poem) & Flying Together (Story)",
+        "headings": ["Let's Read and Enjoy", "Think and Write", "Let's Talk", "Picture Composition"]
+      },
+      {
+        "unit": "Unit 3",
+        "chapter_name": "My Shadow (Poem) & Robinson Crusoe Discovers a Footprint (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Let's Write", "Fun Time"]
+      },
+      {
+        "unit": "Unit 4",
+        "chapter_name": "Crying (Poem) & My Elder Brother (Story)",
+        "headings": ["Let's Read", "Reading is Fun", "Let's Talk", "Creative Writing"]
+      },
+      {
+        "unit": "Unit 5",
+        "chapter_name": "The Lazy Frog (Poem) & Rip Van Winkle (Story)",
+        "headings": ["Reading is Fun", "Word Building", "Let's Talk", "Let's Write"]
+      },
+      {
+        "unit": "Unit 6",
+        "chapter_name": "Class Discussion (Poem) & The Talkative Barber (Story)",
+        "headings": ["Let's Read", "Reading is Fun", "Let's Talk", "Let's Write"]
+      },
+      {
+        "unit": "Unit 7",
+        "chapter_name": "Topsy-turvy Land (Poem) & Gulliver’s Travels (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 8",
+        "chapter_name": "Nobody’s Friend (Poem) & The Little Bully (Story)",
+        "headings": ["Reading is Fun", "Vocabulary", "Let's Talk", "Let's Write"]
+      },
+      {
+        "unit": "Unit 9",
+        "chapter_name": "Sing a Song of People (Poem) & Around the World (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      },
+      {
+        "unit": "Unit 10",
+        "chapter_name": "Malu Bhalu (Poem) & Who Will be Ningthou? (Story)",
+        "headings": ["Reading is Fun", "Let's Talk", "Word Building", "Let's Write"]
+      }
+    ],
+    "Mathematics (Math-Magic 5)": [
+      {
+        "chapter_name": "Chapter 1: The Fish Tale",
+        "headings": ["Deep under the sea...", "Shapes of fish", "The Fish Market", "Calculating Speed and Distance", "Big Numbers"]
+      },
+      {
+        "chapter_name": "Chapter 2: Shapes and Angles",
+        "headings": ["Rohini and Mohini", "Making angles with body", "Angle tester", "Angles in names", "Changing Shapes"]
+      },
+      {
+        "chapter_name": "Chapter 3: How Many Squares?",
+        "headings": ["Measure the side of the square", "Finding Area", "Puzzles with five squares", "Floor Patterns", "Area of my footprint"]
+      },
+      {
+        "chapter_name": "Chapter 4: Parts and Wholes",
+        "headings": ["Our Flag", "Fractions", "Magic Top", "Greedy Gatekeepers", "Parts of a strip"]
+      },
+      {
+        "chapter_name": "Chapter 5: Does it Look the Same?",
+        "headings": ["Let's Make Patterns from a Drop of Colour", "Symmetry", "Mirror Games", "Half a Turn", "One-fourth Turn"]
+      },
+      {
+        "chapter_name": "Chapter 6: Be My Multiple, I'll be Your Factor",
+        "headings": ["The Mouse and the Cat", "Multiples", "Factors", "Common Multiples", "Factor Tree", "Tamarind Seed Game"]
+      },
+      {
+        "chapter_name": "Chapter 7: Can You See the Pattern?",
+        "headings": ["Isha's Skirt", "Block Patterns", "Number Patterns", "Magic Squares", "Magic Hexagons"]
+      },
+      {
+        "chapter_name": "Chapter 8: Mapping Your Way",
+        "headings": ["A Trip to India Gate", "The Parade Route", "Reading a Map", "Scale on a map", "A Bigger, Smaller Map"]
+      },
+      {
+        "chapter_name": "Chapter 9: Boxes and Sketches",
+        "headings": ["Sweet Box", "Making a 3D box from a 2D net", "Floor Maps", "Deep Drawings", "Matchbox Play"]
+      },
+      {
+        "chapter_name": "Chapter 10: Tenths and Hundredths",
+        "headings": ["Measuring with a small scale", "Decimal Representation", "Comparing Decimals", "Money from different countries", "Temperature"]
+      },
+      {
+        "chapter_name": "Chapter 11: Area and its Boundary",
+        "headings": ["Whose Slice is Bigger?", "Finding Area and Perimeter", "Puzzles and challenges with area", "Cover with Stamps"]
+      },
+      {
+        "chapter_name": "Chapter 12: Smart Charts",
+        "headings": ["Chee-Chee! Yam-Yam!", "Tally Marks", "Pie Charts (Chapatti Charts)", "Family Tree", "Hot and Cold Graph"]
+      },
+      {
+        "chapter_name": "Chapter 13: Ways to Multiply and Divide",
+        "headings": ["Maniratnam the Cashier", "Different methods of multiplication", "Division", "Real-life problems"]
+      },
+      {
+        "chapter_name": "Chapter 14: How Big? How Heavy?",
+        "headings": ["Volume", "Making a paper cube", "Matchbox play", "Measuring volume", "Measuring weight"]
+      }
+    ],
+    "Environmental Studies (Looking Around-5)": [
+      {
+        "chapter_name": "Chapter 1: Super Senses",
+        "headings": ["Animal senses (smell, sight, hearing)", "Ants, dogs, mosquitoes, eagles, tigers", "Sleeping and waking times of animals", "Endangered animals"]
+      },
+      {
+        "chapter_name": "Chapter 2: A Snake Charmer’s Story",
+        "headings": ["Life of Kalbeliyas", "Dependence on animals", "Snakebite and its remedies", "Laws against catching animals"]
+      },
+      {
+        "chapter_name": "Chapter 3: From Tasting to Digesting",
+        "headings": ["Different tastes", "How we taste food", "The process of digestion", "Story of a stomach with a window", "Proper food for good health"]
+      },
+      {
+        "chapter_name": "Chapter 4: Mangoes Round the Year",
+        "headings": ["Food spoilage", "How to know food has spoiled", "Food preservation methods", "Mamidi tandra (aam papad)"]
+      },
+      {
+        "chapter_name": "Chapter 5: Seeds and Seeds",
+        "headings": ["Variety in seeds", "Dispersal of seeds", "Sprouting seeds", "Plants that hunt (Pitcher plant)", "Plants from different parts of the world"]
+      },
+      {
+        "chapter_name": "Chapter 6: Every Drop Counts",
+        "headings": ["Water sources in Jaisalmer (Ghadisar)", "Rainwater harvesting", "Stepwells (Baolis)", "Customs related to water", "Water bills"]
+      },
+      {
+        "chapter_name": "Chapter 7: Experiments with Water",
+        "headings": ["Floating and sinking", "Solubility of substances", "Dandi March", "Evaporation"]
+      },
+      {
+        "chapter_name": "Chapter 8: A Treat for Mosquitoes",
+        "headings": ["Diseases spread by mosquitoes (Malaria, Dengue, Chikungunya)", "Blood test", "Anaemia", "Stagnant water and mosquito breeding"]
+      },
+      {
+        "chapter_name": "Chapter 9: Up You Go!",
+        "headings": ["A mountaineering camp", "Responsibilities of a group leader", "Rock climbing", "Story of Bachendri Pal"]
+      },
+      {
+        "chapter_name": "Chapter 10: Walls Tell Stories",
+        "headings": ["Visiting Golconda Fort", "History of the fort", "Arrangements for water and security", "Visiting a museum"]
+      },
+      {
+        "chapter_name": "Chapter 11: Sunita in Space",
+        "headings": ["Life in a spaceship", "The Earth from space", "The globe", "Sunita Williams' experience"]
+      },
+      {
+        "chapter_name": "Chapter 12: What if it Finishes...?",
+        "headings": ["Fossil fuels (petrol, diesel)", "Their limited availability", "Saving fuel", "Using alternative energy sources"]
+      },
+      {
+        "chapter_name": "Chapter 13: A Shelter so High!",
+        "headings": ["A journey to Ladakh", "Different types of houses in mountains", "Life of Changpa tribe", "Pashmina shawls"]
+      },
+      {
+        "chapter_name": "Chapter 14: When the Earth Shook!",
+        "headings": ["Natural disasters (Earthquake)", "Experiences during the Bhuj earthquake", "What to do during an earthquake", "Help from different agencies"]
+      },
+      {
+        "chapter_name": "Chapter 15: Blow Hot, Blow Cold",
+        "headings": ["Story by Dr. Zakir Hussain", "Using breath to warm or cool things", "The stethoscope"]
+      },
+      {
+        "chapter_name": "Chapter 16: Who will do this Work?",
+        "headings": ["Cleaning jobs and dignity of labour", "Experiences of people doing cleaning work", "Gandhiji's views on cleanliness and untouchability"]
+      },
+      {
+        "chapter_name": "Chapter 17: Across the Wall",
+        "headings": ["A girls' basketball team in Mumbai", "Breaking gender stereotypes", "Teamwork and cooperation"]
+      },
+      {
+        "chapter_name": "Chapter 18: No Place for Us?",
+        "headings": ["Displacement of people due to dams and other projects", "Problems faced by displaced families", "Life of adivasis"]
+      },
+      {
+        "chapter_name": "Chapter 19: A Seed tells a Farmer’s Story",
+        "headings": ["Changes in farming methods over time", "Traditional vs. modern farming", "Use of fertilizers and pesticides", "Farmer's debt"]
+      },
+      {
+        "chapter_name": "Chapter 20: Whose Forests?",
+        "headings": ["Life of adivasis and their dependence on forests", "Right to Forest Act, 2007", "Jhoom farming", "Suryamani's story"]
+      },
+      {
+        "chapter_name": "Chapter 21: Like Father, Like Daughter",
+        "headings": ["Heredity and traits passed from parents", "Polio", "Mendel's experiments (simplified)"]
+      },
+      {
+        "chapter_name": "Chapter 22: On the Move Again",
+        "headings": ["Seasonal migration of families for work (sugarcane cutting)", "Problems faced by children in migrating families", "Loans and debt"]
+      }
+    ],
+    "Hindi (Rimjhim-5)": [
+      {
+        "chapter_name": "पाठ 1: राख की रस्सी (लोककथा)",
+        "headings": ["कहानी वाचन", "भोला-भाला", "शहर"]
+      },
+      {
+        "chapter_name": "पाठ 2: फ़सलों के त्योहार (लेख)",
+        "headings": ["लेख पठन", "मौसम का अंदाज़", "तुम्हारे इलाके के त्योहार"]
+      },
+      {
+        "chapter_name": "पाठ 3: खिलौनेवाला (कविता)",
+        "headings": ["कविता वाचन", "कविता और तुम", "खेल-खिलौने"]
+      },
+      {
+        "chapter_name": "पाठ 4: नन्हा फ़नकार (कहानी)",
+        "headings": ["कहानी वाचन", "कहानी की बात", "अकबर का दौर"]
+      },
+      {
+        "chapter_name": "पाठ 5: जहाँ चाह वहाँ राह (लेख)",
+        "headings": ["लेख पठन", "मैं भी कुछ कर सकती हूँ", "चाह और राह"]
+      },
+      {
+        "chapter_name": "पाठ 6: चिट्ठी का सफ़र (लेख)",
+        "headings": ["लेख पठन", "चिट्ठी-पत्री", "शब्दकोश"]
+      },
+      {
+        "chapter_name": "पाठ 7: डाकिये की कहानी, कुँवरसिंह की ज़ुबानी (भेंटवार्ता)",
+        "headings": ["भेंटवार्ता पठन", "चिट्ठी की यात्रा", "आपकी चिट्ठी"]
+      },
+      {
+        "chapter_name": "पाठ 8: वे दिन भी क्या दिन थे (विज्ञान कथा)",
+        "headings": ["कहानी वाचन", "सोचो", "कागज़ पर छपाई"]
+      },
+      {
+        "chapter_name": "पाठ 9: एक माँ की बेबसी (कविता)",
+        "headings": ["कविता वाचन", "यह बच्चा", "सोचो और बताओ"]
+      },
+      {
+        "chapter_name": "पाठ 10: एक दिन की बादशाहत (कहानी)",
+        "headings": ["कहानी वाचन", "कहानी की बात", "तुम्हारी बात"]
+      },
+      {
+        "chapter_name": "पाठ 11: चावल की रोटियाँ (नाटक)",
+        "headings": ["नाटक पठन", "नाटक से", "एक चावल कई रूप"]
+      },
+      {
+        "chapter_name": "पाठ 12: गुरु और चेला (कविता)",
+        "headings": ["कविता वाचन", "अंधेर नगरी", "क्या होता यदि"]
+      },
+      {
+        "chapter_name": "पाठ 13: स्वामी की दादी (कहानी)",
+        "headings": ["कहानी वाचन", "कहानी से", "तुम्हारी समझ"]
+      },
+      {
+        "chapter_name": "पाठ 14: बाघ आया उस रात (कविता)",
+        "headings": ["कविता वाचन", "ख़बर तेंदुए की", "उस रात"]
+      },
+      {
+        "chapter_name": "पाठ 15: बिशन की दिलेरी (कहानी)",
+        "headings": ["कहानी वाचन", "कहानी से", "तुम्हारी समझ"]
+      },
+      {
+        "chapter_name": "पाठ 16: पानी रे पानी (लेख)",
+        "headings": ["लेख पठन", "क्या तुम जानते हो", "जल चक्र"]
+      },
+      {
+        "chapter_name": "पाठ 17: छोटी-सी हमारी नदी (कविता)",
+        "headings": ["कविता वाचन", "तुम्हारी नदी", "कविता के बाहर"]
+      },
+      {
+        "chapter_name": "पाठ 18: चुनौती हिमालय की (लेख)",
+        "headings": ["लेख पठन", "कठिन रास्ते", "बोलो, क्या समझे"]
+      }
+    ]
+  }
+}

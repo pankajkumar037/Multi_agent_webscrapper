@@ -1,0 +1,1592 @@
+{
+  "Class 11": {
+    "Science Stream": {
+      "Physics": [
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 1: Physical World",
+          "headings": [
+            "What is physics?",
+            "Scope and excitement of physics",
+            "Physics, technology and society",
+            "Fundamental forces in nature",
+            "Nature of physical laws"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 2: Units and Measurement",
+          "headings": [
+            "The international system of units",
+            "Measurement of length",
+            "Measurement of mass",
+            "Measurement of time",
+            "Accuracy, precision of instruments and errors in measurement",
+            "Significant figures",
+            "Dimensions of physical quantities",
+            "Dimensional analysis and its applications"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 3: Motion in a Straight Line",
+          "headings": [
+            "Position, path length and displacement",
+            "Average velocity and average speed",
+            "Instantaneous velocity and speed",
+            "Acceleration",
+            "Kinematic equations for uniformly accelerated motion",
+            "Relative velocity"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 4: Motion in a Plane",
+          "headings": [
+            "Scalars and vectors",
+            "Resolution of vectors",
+            "Motion in a plane",
+            "Motion in a plane with constant acceleration",
+            "Relative velocity in two dimensions",
+            "Projectile motion",
+            "Uniform circular motion"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 5: Laws of Motion",
+          "headings": [
+            "Aristotle’s fallacy",
+            "The law of inertia",
+            "Newton’s first law of motion",
+            "Newton’s second law of motion",
+            "Newton’s third law of motion",
+            "Conservation of momentum",
+            "Equilibrium of a particle",
+            "Common forces in mechanics",
+            "Circular motion",
+            "Solving problems in mechanics"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 6: Work, Energy and Power",
+          "headings": [
+            "The Work-Energy Theorem",
+            "Work",
+            "Kinetic energy",
+            "Work done by a variable force",
+            "The work-energy theorem for a variable force",
+            "The concept of potential energy",
+            "The conservation of mechanical energy",
+            "The potential energy of a spring",
+            "Various forms of energy: the law of conservation of energy",
+            "Power",
+            "Collisions"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 7: System of Particles and Rotational Motion",
+          "headings": [
+            "Centre of mass",
+            "Motion of centre of mass",
+            "Linear momentum of a system of particles",
+            "Vector product of two vectors",
+            "Angular velocity and its relation with linear velocity",
+            "Torque and angular momentum",
+            "Equilibrium of a rigid body",
+            "Moment of inertia",
+            "Theorems of perpendicular and parallel axes",
+            "Kinematics of rotational motion about a fixed axis",
+            "Dynamics of rotational motion about a fixed axis",
+            "Angular momentum in case of rotation about a fixed axis",
+            "Rolling motion"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 8: Gravitation",
+          "headings": [
+            "Kepler’s laws",
+            "Universal law of gravitation",
+            "The gravitational constant",
+            "Acceleration due to gravity of the earth",
+            "Acceleration due to gravity below and above the surface of earth",
+            "Gravitational potential energy",
+            "Escape speed",
+            "Earth satellites",
+            "Energy of an orbiting satellite",
+            "Geostationary and polar satellites",
+            "Weightlessness"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 9: Mechanical Properties of Solids",
+          "headings": [
+            "Elastic behaviour of solids",
+            "Stress and strain",
+            "Hooke’s law",
+            "Stress-strain curve",
+            "Elastic moduli",
+            "Applications of elastic behaviour of materials"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 10: Mechanical Properties of Fluids",
+          "headings": [
+            "Pressure",
+            "Streamline flow",
+            "Bernoulli’s principle",
+            "Viscosity",
+            "Surface tension"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 11: Thermal Properties of Matter",
+          "headings": [
+            "Temperature and heat",
+            "Measurement of temperature",
+            "Ideal-gas equation and absolute temperature",
+            "Thermal expansion",
+            "Specific heat capacity",
+            "Calorimetry",
+            "Change of state",
+            "Heat transfer",
+            "Newton’s law of cooling"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 12: Thermodynamics",
+          "headings": [
+            "Thermal equilibrium",
+            "Zeroth law of thermodynamics",
+            "Heat, internal energy and work",
+            "First law of thermodynamics",
+            "Specific heat capacity",
+            "Thermodynamic state variables and equation of state",
+            "Thermodynamic processes",
+            "Heat engines",
+            "Refrigerators and heat pumps",
+            "Second law of thermodynamics",
+            "Reversible and irreversible processes",
+            "Carnot engine"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 13: Kinetic Theory",
+          "headings": [
+            "Molecular nature of matter",
+            "Behaviour of gases",
+            "Kinetic theory of an ideal gas",
+            "Law of equipartition of energy",
+            "Specific heat capacity",
+            "Mean free path"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 14: Oscillations",
+          "headings": [
+            "Periodic and oscillatory motions",
+            "Simple harmonic motion",
+            "Simple harmonic motion and uniform circular motion",
+            "Velocity and acceleration in simple harmonic motion",
+            "Force law for simple harmonic motion",
+            "Energy in simple harmonic motion",
+            "Some systems executing Simple Harmonic Motion",
+            "Damped simple harmonic motion",
+            "Forced oscillations and resonance"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 15: Waves",
+          "headings": [
+            "Transverse and longitudinal waves",
+            "Displacement relation in a progressive wave",
+            "The speed of a travelling wave",
+            "The principle of superposition of waves",
+            "Reflection of waves",
+            "Beats",
+            "Doppler effect"
+          ]
+        }
+      ],
+      "Chemistry": [
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 1: Some Basic Concepts of Chemistry",
+          "headings": [
+            "Importance of Chemistry",
+            "Nature of Matter",
+            "Properties of Matter and their Measurement",
+            "Uncertainty in Measurement",
+            "Laws of Chemical Combinations",
+            "Dalton's Atomic Theory",
+            "Atomic and Molecular Masses",
+            "Mole Concept and Molar Masses",
+            "Percentage Composition",
+            "Stoichiometry and Stoichiometric Calculations"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 2: Structure of Atom",
+          "headings": [
+            "Discovery of Sub-atomic Particles",
+            "Atomic Models",
+            "Developments Leading to the Bohr's Model of Atom",
+            "Bohr's Model for Hydrogen Atom",
+            "Towards Quantum Mechanical Model of the Atom",
+            "Quantum Mechanical Model of Atom"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 3: Classification of Elements and Periodicity in Properties",
+          "headings": [
+            "Why do we need to Classify Elements?",
+            "Genesis of Periodic Classification",
+            "Modern Periodic Law and the present form of the Periodic Table",
+            "Nomenclature of Elements with Atomic Numbers > 100",
+            "Electronic Configurations of Elements and the Periodic Table",
+            "Electronic Configurations and Types of Elements: s, p, d, f Blocks",
+            "Periodic Trends in Properties of Elements"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 4: Chemical Bonding and Molecular Structure",
+          "headings": [
+            "Kossel-Lewis Approach to Chemical Bonding",
+            "Ionic or Electrovalent Bond",
+            "Bond Parameters",
+            "The Valence Shell Electron Pair Repulsion (VSEPR) Theory",
+            "Valence Bond Theory",
+            "Hybridisation",
+            "Molecular Orbital Theory",
+            "Bonding in Some Homonuclear Diatomic Molecules",
+            "Hydrogen Bonding"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 5: States of Matter",
+          "headings": [
+            "Intermolecular Forces",
+            "Thermal Energy",
+            "Intermolecular Forces vs Thermal Interactions",
+            "The Gaseous State",
+            "The Gas Laws",
+            "Ideal Gas Equation",
+            "Kinetic Molecular Theory of Gases",
+            "Behaviour of real gases: Deviation from Ideal Gas Behaviour",
+            "Liquefaction of Gases",
+            "Liquid State"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 6: Thermodynamics",
+          "headings": [
+            "Thermodynamic Terms",
+            "Applications",
+            "Measurement of ΔU and ΔH: Calorimetry",
+            "Enthalpy Change, ΔrH of a Reaction",
+            "Enthalpies for Different Types of Reactions",
+            "Spontaneity",
+            "Gibbs Energy Change and Equilibrium"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 7: Equilibrium",
+          "headings": [
+            "Equilibrium in Physical Processes",
+            "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+            "Law of Chemical Equilibrium and Equilibrium Constant",
+            "Homogeneous and Heterogeneous Equilibria",
+            "Applications of Equilibrium Constants",
+            "Relationship between Equilibrium Constant K, Reaction Quotient Q and Gibbs Energy G",
+            "Factors Affecting Equilibria",
+            "Ionic Equilibrium in Solution",
+            "Acids, Bases and Salts",
+            "Ionization of Acids and Bases",
+            "Buffer Solutions",
+            "Solubility Equilibria of Sparingly Soluble Salts"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 8: Redox Reactions",
+          "headings": [
+            "Classical Idea of Redox Reactions–Oxidation and Reduction Reactions",
+            "Redox Reactions in Terms of Electron Transfer Reactions",
+            "Oxidation Number",
+            "Redox Reactions and Electrode Processes"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 9: Hydrogen",
+          "headings": [
+            "Position of Hydrogen in the Periodic Table",
+            "Dihydrogen, H2",
+            "Preparation and Properties of Dihydrogen",
+            "Hydrides",
+            "Water",
+            "Hydrogen Peroxide (H2O2)",
+            "Heavy Water, D2O",
+            "Dihydrogen as a Fuel"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 10: The s-Block Elements",
+          "headings": [
+            "Group 1 Elements: Alkali Metals",
+            "General Characteristics of the Alkali Metals",
+            "Some Important Compounds of Sodium",
+            "Group 2 Elements: Alkaline Earth Metals",
+            "General Characteristics of the Alkaline Earth Metals",
+            "Some Important Compounds of Calcium",
+            "Anomalous Behaviour of Beryllium"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 11: The p-Block Elements",
+          "headings": [
+            "Group 13 Elements: The Boron Family",
+            "Important Trends and Anomalous Properties of Boron",
+            "Some Important Compounds of Boron",
+            "Uses of Boron and Aluminium and their Compounds",
+            "Group 14 Elements: The Carbon Family",
+            "Important Trends and Anomalous Behaviour of Carbon",
+            "Allotropes of Carbon",
+            "Some Important Compounds of Carbon and Silicon"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 12: Organic Chemistry – Some Basic Principles and Techniques",
+          "headings": [
+            "General Introduction",
+            "Tetravalence of Carbon: Shapes of Organic Compounds",
+            "Structural Representations of Organic Compounds",
+            "Classification of Organic Compounds",
+            "Nomenclature of Organic Compounds",
+            "Isomerism",
+            "Fundamental Concepts in Organic Reaction Mechanism",
+            "Methods of Purification of Organic Compounds",
+            "Qualitative and Quantitative Analysis of Organic Compounds"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 13: Hydrocarbons",
+          "headings": [
+            "Classification",
+            "Alkanes",
+            "Alkenes",
+            "Alkynes",
+            "Aromatic Hydrocarbon",
+            "Carcinogenicity and Toxicity"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 14: Environmental Chemistry",
+          "headings": [
+            "Environmental Pollution",
+            "Atmospheric Pollution",
+            "Water Pollution",
+            "Soil Pollution",
+            "Industrial Waste",
+            "Strategies to control Environmental Pollution",
+            "Green Chemistry"
+          ]
+        }
+      ],
+      "Mathematics": [
+        {
+          "chapter_name": "Chapter 1: Sets",
+          "headings": [
+            "Sets and their Representations",
+            "The Empty Set",
+            "Finite and Infinite Sets",
+            "Equal Sets",
+            "Subsets",
+            "Power Set",
+            "Universal Set",
+            "Venn Diagrams",
+            "Operations on Sets",
+            "Complement of a Set",
+            "Practical Problems on Union and Intersection of Two Sets"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 2: Relations and Functions",
+          "headings": [
+            "Cartesian Product of Sets",
+            "Relations",
+            "Functions",
+            "Some functions and their Graphs",
+            "Algebra of real functions"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 3: Trigonometric Functions",
+          "headings": [
+            "Angles",
+            "Trigonometric Functions",
+            "Trigonometric Functions of Sum and Difference of Two Angles",
+            "Trigonometric Equations"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 4: Principle of Mathematical Induction",
+          "headings": [
+            "Motivation",
+            "The Principle of Mathematical Induction"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 5: Complex Numbers and Quadratic Equations",
+          "headings": [
+            "Complex Numbers",
+            "Algebra of Complex Numbers",
+            "The Modulus and the Conjugate of a Complex Number",
+            "Argand Plane and Polar Representation",
+            "Quadratic Equations"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 6: Linear Inequalities",
+          "headings": [
+            "Inequalities",
+            "Algebraic Solutions of Linear Inequalities in One Variable and their Graphical Representation",
+            "Graphical Solution of Linear Inequalities in Two Variables",
+            "Solution of System of Linear Inequalities in Two Variables"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 7: Permutations and Combinations",
+          "headings": [
+            "Fundamental Principle of Counting",
+            "Permutations",
+            "Combinations"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 8: Binomial Theorem",
+          "headings": [
+            "Binomial theorem for positive integral indices",
+            "General and Middle Terms"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 9: Sequences and Series",
+          "headings": [
+            "Sequences",
+            "Series",
+            "Arithmetic Progression (A.P.)",
+            "Geometric Progression (G.P.)",
+            "Relationship Between A.M. and G.M.",
+            "Sum to n terms of Special Series"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 10: Straight Lines",
+          "headings": [
+            "Slope of a Line",
+            "Various Forms of the Equation of a Line",
+            "General Equation of a Line",
+            "Distance of a Point From a Line"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 11: Conic Sections",
+          "headings": [
+            "Sections of a Cone",
+            "Circle",
+            "Parabola",
+            "Ellipse",
+            "Hyperbola"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 12: Introduction to Three Dimensional Geometry",
+          "headings": [
+            "Coordinate Axes and Coordinate Planes in Three Dimensional Space",
+            "Coordinates of a Point in Space",
+            "Distance between Two Points",
+            "Section Formula"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 13: Limits and Derivatives",
+          "headings": [
+            "Intuitive Idea of Derivatives",
+            "Limits",
+            "Limits of Trigonometric Functions",
+            "Derivatives"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 14: Mathematical Reasoning",
+          "headings": [
+            "Statements",
+            "New Statements from Old",
+            "Special Words/Phrases",
+            "Implications",
+            "Validating Statements"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 15: Statistics",
+          "headings": [
+            "Measures of Dispersion",
+            "Range",
+            "Mean Deviation",
+            "Variance and Standard Deviation",
+            "Analysis of Frequency Distributions"
+          ]
+        },
+        {
+          "chapter_name": "Chapter 16: Probability",
+          "headings": [
+            "Random Experiments",
+            "Event",
+            "Axiomatic Approach to Probability"
+          ]
+        }
+      ],
+      "Biology": [
+        {
+          "unit": "I: Diversity in the Living World",
+          "chapter_name": "Chapter 1: The Living World",
+          "headings": [
+            "What is ‘Living’?",
+            "Diversity in the Living World",
+            "Taxonomic Categories",
+            "Taxonomical Aids"
+          ]
+        },
+        {
+          "unit": "I: Diversity in the Living World",
+          "chapter_name": "Chapter 2: Biological Classification",
+          "headings": [
+            "Kingdom Monera",
+            "Kingdom Protista",
+            "Kingdom Fungi",
+            "Kingdom Plantae",
+            "Kingdom Animalia",
+            "Viruses, Viroids and Lichens"
+          ]
+        },
+        {
+          "unit": "I: Diversity in the Living World",
+          "chapter_name": "Chapter 3: Plant Kingdom",
+          "headings": [
+            "Algae",
+            "Bryophytes",
+            "Pteridophytes",
+            "Gymnosperms",
+            "Angiosperms",
+            "Plant Life Cycles and Alternation of Generations"
+          ]
+        },
+        {
+          "unit": "I: Diversity in the Living World",
+          "chapter_name": "Chapter 4: Animal Kingdom",
+          "headings": [
+            "Basis of Classification",
+            "Classification of Animals"
+          ]
+        },
+        {
+          "unit": "II: Structural Organisation in Plants and Animals",
+          "chapter_name": "Chapter 5: Morphology of Flowering Plants",
+          "headings": [
+            "The Root",
+            "The Stem",
+            "The Leaf",
+            "The Inflorescence",
+            "The Flower",
+            "The Fruit",
+            "The Seed",
+            "Semi-technical Description of a Typical Flowering Plant",
+            "Description of Some Important Families"
+          ]
+        },
+        {
+          "unit": "II: Structural Organisation in Plants and Animals",
+          "chapter_name": "Chapter 6: Anatomy of Flowering Plants",
+          "headings": [
+            "The Tissues",
+            "The Tissue System",
+            "Anatomy of Dicotyledonous and Monocotyledonous Plants",
+            "Secondary Growth"
+          ]
+        },
+        {
+          "unit": "II: Structural Organisation in Plants and Animals",
+          "chapter_name": "Chapter 7: Structural Organisation in Animals",
+          "headings": [
+            "Epithelial Tissue",
+            "Connective Tissue",
+            "Muscle Tissue",
+            "Neural Tissue",
+            "Organ and Organ System",
+            "Earthworm, Cockroach, Frogs"
+          ]
+        },
+        {
+          "unit": "III: Cell: Structure and Functions",
+          "chapter_name": "Chapter 8: Cell: The Unit of Life",
+          "headings": [
+            "What is a Cell?",
+            "Cell Theory",
+            "An Overview of Cell",
+            "Prokaryotic Cells",
+            "Eukaryotic Cells"
+          ]
+        },
+        {
+          "unit": "III: Cell: Structure and Functions",
+          "chapter_name": "Chapter 9: Biomolecules",
+          "headings": [
+            "How to Analyse Chemical Composition?",
+            "Primary and Secondary Metabolites",
+            "Biomacromolecules",
+            "Proteins",
+            "Polysaccharides",
+            "Nucleic Acids",
+            "Structure of Proteins",
+            "Nature of Bond Linking Monomers in a Polymer",
+            "Dynamic State of Body Constituents – Concept of Metabolism",
+            "Metabolic Basis for Living",
+            "The Living State",
+            "Enzymes"
+          ]
+        },
+        {
+          "unit": "III: Cell: Structure and Functions",
+          "chapter_name": "Chapter 10: Cell Cycle and Cell Division",
+          "headings": [
+            "Cell Cycle",
+            "M Phase",
+            "Significance of Mitosis",
+            "Meiosis",
+            "Significance of Meiosis"
+          ]
+        },
+        {
+          "unit": "IV: Plant Physiology",
+          "chapter_name": "Chapter 11: Transport in Plants",
+          "headings": [
+            "Means of Transport",
+            "Plant-Water Relations",
+            "Long Distance Transport of Water",
+            "Transpiration",
+            "Uptake and Transport of Mineral Nutrients",
+            "Phloem Transport: Flow from Source to Sink"
+          ]
+        },
+        {
+          "unit": "IV: Plant Physiology",
+          "chapter_name": "Chapter 12: Mineral Nutrition",
+          "headings": [
+            "Methods to Study the Mineral Requirements of Plants",
+            "Essential Mineral Elements",
+            "Mechanism of Absorption of Elements",
+            "Translocation of Solutes",
+            "Soil as Reservoir of Essential Elements",
+            "Metabolism of Nitrogen"
+          ]
+        },
+        {
+          "unit": "IV: Plant Physiology",
+          "chapter_name": "Chapter 13: Photosynthesis in Higher Plants",
+          "headings": [
+            "What do we Know?",
+            "Early Experiments",
+            "Where does Photosynthesis take place?",
+            "How many Pigments are involved in Photosynthesis?",
+            "What is Light Reaction?",
+            "The Electron Transport",
+            "Where are the ATP and NADPH Used?",
+            "The C4 Pathway",
+            "Photorespiration",
+            "Factors affecting Photosynthesis"
+          ]
+        },
+        {
+          "unit": "IV: Plant Physiology",
+          "chapter_name": "Chapter 14: Respiration in Plants",
+          "headings": [
+            "Do Plants Breathe?",
+            "Glycolysis",
+            "Fermentation",
+            "Aerobic Respiration",
+            "The Respiratory Balance Sheet",
+            "Amphibolic Pathway",
+            "Respiratory Quotient"
+          ]
+        },
+        {
+          "unit": "IV: Plant Physiology",
+          "chapter_name": "Chapter 15: Plant Growth and Development",
+          "headings": [
+            "Growth",
+            "Differentiation, Dedifferentiation and Redifferentiation",
+            "Development",
+            "Plant Growth Regulators",
+            "Photoperiodism",
+            "Vernalisation"
+          ]
+        },
+        {
+          "unit": "V: Human Physiology",
+          "chapter_name": "Chapter 16: Digestion and Absorption",
+          "headings": [
+            "Digestive System",
+            "Digestion of Food",
+            "Absorption of Digested Products",
+            "Disorders of Digestive System"
+          ]
+        },
+        {
+          "unit": "V: Human Physiology",
+          "chapter_name": "Chapter 17: Breathing and Exchange of Gases",
+          "headings": [
+            "Respiratory Organs",
+            "Mechanism of Breathing",
+            "Exchange of Gases",
+            "Transport of Gases",
+            "Regulation of Respiration",
+            "Disorders of Respiratory System"
+          ]
+        },
+        {
+          "unit": "V: Human Physiology",
+          "chapter_name": "Chapter 18: Body Fluids and Circulation",
+          "headings": [
+            "Blood",
+            "Lymph (Tissue Fluid)",
+            "Circulatory Pathways",
+            "Human Circulatory System",
+            "Cardiac Cycle",
+            "Electrocardiograph (ECG)",
+            "Double Circulation",
+            "Regulation of Cardiac Activity",
+            "Disorders of Circulatory System"
+          ]
+        },
+        {
+          "unit": "V: Human Physiology",
+          "chapter_name": "Chapter 19: Excretory Products and their Elimination",
+          "headings": [
+            "Human Excretory System",
+            "Urine Formation",
+            "Function of the Tubules",
+            "Mechanism of Concentration of the Filtrate",
+            "Regulation of Kidney Function",
+            "Micturition",
+            "Role of other Organs in Excretion",
+            "Disorders of the Excretory System"
+          ]
+        },
+        {
+          "unit": "V: Human Physiology",
+          "chapter_name": "Chapter 20: Locomotion and Movement",
+          "headings": [
+            "Types of Movement",
+            "Muscle",
+            "Skeletal System",
+            "Joints",
+            "Disorders of Muscular and Skeletal System"
+          ]
+        },
+        {
+          "unit": "V: Human Physiology",
+          "chapter_name": "Chapter 21: Neural Control and Coordination",
+          "headings": [
+            "Neural System",
+            "Human Neural System",
+            "Neuron as Structural and Functional Unit of Neural System",
+            "Central Neural System",
+            "Reflex Action and Reflex Arc",
+            "Sensory Reception and Processing"
+          ]
+        },
+        {
+          "unit": "V: Human Physiology",
+          "chapter_name": "Chapter 22: Chemical Coordination and Integration",
+          "headings": [
+            "Endocrine Glands and Hormones",
+            "Human Endocrine System",
+            "Hormones of Heart, Kidney and Gastrointestinal Tract",
+            "Mechanism of Hormone Action"
+          ]
+        }
+      ]
+    }
+  },
+  "Class 12": {
+    "Science Stream": {
+      "Physics": [
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 1: Electric Charges and Fields",
+          "headings": [
+            "Electric Charge",
+            "Conductors and Insulators",
+            "Charging by Induction",
+            "Basic Properties of Electric Charge",
+            "Coulomb’s Law",
+            "Forces between Multiple Charges",
+            "Electric Field",
+            "Electric Field Lines",
+            "Electric Flux",
+            "Electric Dipole",
+            "Dipole in a Uniform External Field",
+            "Continuous Charge Distribution",
+            "Gauss’s Law",
+            "Application of Gauss’s Law"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 2: Electrostatic Potential and Capacitance",
+          "headings": [
+            "Electrostatic Potential",
+            "Potential due to a Point Charge",
+            "Potential due to an Electric Dipole",
+            "Potential due to a System of Charges",
+            "Equipotential Surfaces",
+            "Potential Energy of a System of Charges",
+            "Potential Energy in an External Field",
+            "Electrostatics of Conductors",
+            "Dielectrics and Polarisation",
+            "Capacitors and Capacitance",
+            "The Parallel Plate Capacitor",
+            "Effect of Dielectric on Capacitance",
+            "Combination of Capacitors",
+            "Energy Stored in a Capacitor",
+            "Van de Graaff Generator"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 3: Current Electricity",
+          "headings": [
+            "Electric Current",
+            "Electric Currents in Conductors",
+            "Ohm’s law",
+            "Drift of Electrons and the Origin of Resistivity",
+            "Limitations of Ohm’s Law",
+            "Resistivity of various Materials",
+            "Temperature Dependence of Resistivity",
+            "Electrical Energy, Power",
+            "Combination of Resistors – Series and Parallel",
+            "Cells, EMF, Internal Resistance",
+            "Cells in Series and in Parallel",
+            "Kirchhoff’s Laws",
+            "Wheatstone Bridge",
+            "Metre Bridge",
+            "Potentiometer"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 4: Moving Charges and Magnetism",
+          "headings": [
+            "Magnetic Force",
+            "Motion in a Magnetic Field",
+            "Motion in Combined Electric and Magnetic Fields",
+            "Magnetic Field due to a Current Element, Biot-Savart Law",
+            "Magnetic Field on the Axis of a Circular Current Loop",
+            "Ampere’s Circuital Law",
+            "The Solenoid and the Toroid",
+            "Force between Two Parallel Currents, the Ampere",
+            "Torque on Current Loop, Magnetic Dipole",
+            "The Moving Coil Galvanometer"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 5: Magnetism and Matter",
+          "headings": [
+            "The Bar Magnet",
+            "Magnetism and Gauss’s Law",
+            "The Earth’s Magnetism",
+            "Magnetisation and Magnetic Intensity",
+            "Magnetic Properties of Materials",
+            "Permanent Magnets and Electromagnets"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 6: Electromagnetic Induction",
+          "headings": [
+            "The Experiments of Faraday and Henry",
+            "Magnetic Flux",
+            "Faraday’s Law of Induction",
+            "Lenz’s Law and Conservation of Energy",
+            "Motional Electromotive Force",
+            "Energy Consideration: A Quantitative Study",
+            "Eddy Currents",
+            "Inductance",
+            "AC Generator"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 7: Alternating Current",
+          "headings": [
+            "AC Voltage Applied to a Resistor",
+            "Representation of AC Current and Voltage by Rotating Vectors – Phasors",
+            "AC Voltage Applied to an Inductor",
+            "AC Voltage Applied to a Capacitor",
+            "AC Voltage Applied to a Series LCR Circuit",
+            "Power in AC Circuit: The Power Factor",
+            "LC Oscillations",
+            "Transformers"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 8: Electromagnetic Waves",
+          "headings": [
+            "Displacement Current",
+            "Electromagnetic Waves",
+            "Electromagnetic Spectrum"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 9: Ray Optics and Optical Instruments",
+          "headings": [
+            "Reflection of Light by Spherical Mirrors",
+            "Refraction",
+            "Total Internal Reflection",
+            "Refraction at Spherical Surfaces and by Lenses",
+            "Refraction through a Prism",
+            "Dispersion by a Prism",
+            "Some Natural Phenomena due to Sunlight",
+            "Optical Instruments"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 10: Wave Optics",
+          "headings": [
+            "Huygens Principle",
+            "Refraction and reflection of plane waves using Huygens Principle",
+            "Coherent and Incoherent Addition of Waves",
+            "Interference of Light Waves and Young’s Experiment",
+            "Diffraction",
+            "Polarisation"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 11: Dual Nature of Radiation and Matter",
+          "headings": [
+            "Electron Emission",
+            "Photoelectric Effect",
+            "Experimental Study of Photoelectric Effect",
+            "Photoelectric Effect and Wave Theory of Light",
+            "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+            "Particle Nature of Light: The Photon",
+            "Wave Nature of Matter",
+            "Davisson and Germer Experiment"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 12: Atoms",
+          "headings": [
+            "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+            "Atomic Spectra",
+            "Bohr Model of the Hydrogen Atom",
+            "The Line Spectra of the Hydrogen Atom",
+            "DE Broglie’s Explanation of Bohr’s Second Postulate of Quantisation"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 13: Nuclei",
+          "headings": [
+            "Atomic Masses and Composition of Nucleus",
+            "Size of the Nucleus",
+            "Mass-Energy and Nuclear Binding Energy",
+            "Nuclear Force",
+            "Radioactivity",
+            "Nuclear Energy"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 14: Semiconductor Electronics: Materials, Devices and Simple Circuits",
+          "headings": [
+            "Classification of Metals, Conductors and Semiconductors",
+            "Intrinsic Semiconductor",
+            "Extrinsic Semiconductor",
+            "p-n Junction",
+            "Semiconductor diode",
+            "Application of Junction Diode as a Rectifier",
+            "Special Purpose p-n Junction Diodes",
+            "Junction Transistor",
+            "Digital Electronics and Logic Gates"
+          ]
+        }
+      ],
+      "Chemistry": [
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 1: The Solid State",
+          "headings": [
+            "General Characteristics of Solid State",
+            "Amorphous and Crystalline Solids",
+            "Classification of Crystalline Solids",
+            "Crystal Lattices and Unit Cells",
+            "Number of Atoms in a Unit Cell",
+            "Close Packed Structures",
+            "Packing Efficiency",
+            "Calculations involving Unit Cell Dimensions",
+            "Imperfections in Solids",
+            "Electrical and Magnetic Properties"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 2: Solutions",
+          "headings": [
+            "Types of Solutions",
+            "Expressing Concentration of Solutions",
+            "Solubility",
+            "Vapour Pressure of Liquid Solutions",
+            "Ideal and Non-ideal Solutions",
+            "Colligative Properties and Determination of Molar Mass",
+            "Abnormal Molar Masses"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 3: Electrochemistry",
+          "headings": [
+            "Electrochemical Cells",
+            "Galvanic Cells",
+            "Nernst Equation",
+            "Conductance of Electrolytic Solutions",
+            "Electrolytic Cells and Electrolysis",
+            "Batteries",
+            "Fuel Cells",
+            "Corrosion"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 4: Chemical Kinetics",
+          "headings": [
+            "Rate of a Chemical Reaction",
+            "Factors Influencing Rate of a Reaction",
+            "Integrated Rate Equations",
+            "Pseudo First Order Reaction",
+            "Temperature Dependence of the Rate of a Reaction",
+            "Collision Theory of Chemical Reactions"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 5: Surface Chemistry",
+          "headings": [
+            "Adsorption",
+            "Catalysis",
+            "Colloids",
+            "Classification of Colloids",
+            "Emulsions",
+            "Colloids Around Us"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 6: General Principles and Processes of Isolation of Elements",
+          "headings": [
+            "Occurrence of Metals",
+            "Concentration of Ores",
+            "Extraction of Crude Metal from Concentrated Ore",
+            "Thermodynamic Principles of Metallurgy",
+            "Electrochemical Principles of Metallurgy",
+            "Oxidation Reduction",
+            "Refining",
+            "Uses of Aluminium, Copper, Zinc and Iron"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 7: The p-Block Elements",
+          "headings": [
+            "Group 15, 16, 17 and 18 Elements",
+            "General Trends in Properties",
+            "Important Compounds of the Groups",
+            "Anomalous Properties of the First Element of each Group"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 8: The d- and f-Block Elements",
+          "headings": [
+            "Position in the Periodic Table",
+            "Electronic Configurations of the d-Block Elements",
+            "General Properties of the Transition Elements (d-Block)",
+            "Some Important Compounds of Transition Elements",
+            "The Lanthanoids",
+            "The Actinoids",
+            "Some Applications of d- and f-Block Elements"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 9: Coordination Compounds",
+          "headings": [
+            "Werner's Theory of Coordination Compounds",
+            "Definitions of Some Important Terms Pertaining to Coordination Compounds",
+            "Nomenclature of Coordination Compounds",
+            "Isomerism in Coordination Compounds",
+            "Bonding in Coordination Compounds",
+            "Bonding in Metal Carbonyls",
+            "Stability of Coordination Compounds",
+            "Importance and Applications of Coordination Compounds"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 10: Haloalkanes and Haloarenes",
+          "headings": [
+            "Classification and Nomenclature",
+            "Nature of C–X Bond",
+            "Methods of Preparation",
+            "Physical and Chemical Properties",
+            "Polyhalogen Compounds"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 11: Alcohols, Phenols and Ethers",
+          "headings": [
+            "Classification and Nomenclature",
+            "Structures of Functional Groups",
+            "Preparation of Alcohols and Phenols",
+            "Physical and Chemical Properties",
+            "Some Commercially Important Alcohols",
+            "Ethers: Preparation, Properties and Structure"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 12: Aldehydes, Ketones and Carboxylic Acids",
+          "headings": [
+            "Nomenclature and Structure of Carbonyl Group",
+            "Preparation of Aldehydes and Ketones",
+            "Physical and Chemical Properties",
+            "Uses of Aldehydes and Ketones",
+            "Nomenclature and Structure of Carboxyl Group",
+            "Methods of Preparation of Carboxylic Acids",
+            "Physical and Chemical Properties",
+            "Uses of Carboxylic Acids"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 13: Amines",
+          "headings": [
+            "Structure, Classification and Nomenclature of Amines",
+            "Preparation of Amines",
+            "Physical and Chemical Properties",
+            "Method of Preparation of Diazonium Salts",
+            "Physical Properties",
+            "Chemical Reactions",
+            "Importance of Diazonium Salts in Synthesis of Aromatic Compounds"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 14: Biomolecules",
+          "headings": [
+            "Carbohydrates",
+            "Proteins",
+            "Enzymes",
+            "Vitamins",
+            "Nucleic Acids",
+            "Hormones"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 15: Polymers",
+          "headings": [
+            "Classification of Polymers",
+            "Types of Polymerisation Reactions",
+            "Molecular Mass of Polymers",
+            "Biodegradable Polymers",
+            "Polymers of Commercial Importance"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 16: Chemistry in Everyday Life",
+          "headings": [
+            "Drugs and their Classification",
+            "Drug-Target Interaction",
+            "Therapeutic Action of Different Classes of Drugs",
+            "Chemicals in Food",
+            "Cleansing Agents"
+          ]
+        }
+      ],
+      "Mathematics": [
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 1: Relations and Functions",
+          "headings": [
+            "Types of Relations",
+            "Types of Functions",
+            "Composition of Functions and Invertible Function",
+            "Binary Operations"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 2: Inverse Trigonometric Functions",
+          "headings": [
+            "Basic Concepts",
+            "Properties of Inverse Trigonometric Functions"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 3: Matrices",
+          "headings": [
+            "Matrix",
+            "Types of Matrices",
+            "Operations on Matrices",
+            "Transpose of a Matrix",
+            "Symmetric and Skew Symmetric Matrices",
+            "Elementary Operation (Transformation) of a Matrix",
+            "Invertible Matrices"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 4: Determinants",
+          "headings": [
+            "Determinant",
+            "Properties of Determinants",
+            "Area of a Triangle",
+            "Minors and Cofactors",
+            "Adjoint and Inverse of a Matrix",
+            "Applications of Determinants and Matrices"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 5: Continuity and Differentiability",
+          "headings": [
+            "Continuity",
+            "Differentiability",
+            "Exponential and Logarithmic Functions",
+            "Logarithmic Differentiation",
+            "Derivatives of Functions in Parametric Forms",
+            "Second Order Derivative",
+            "Mean Value Theorem"
+          ]
+        },
+        {
+          "part": "Part I",
+          "chapter_name": "Chapter 6: Application of Derivatives",
+          "headings": [
+            "Rate of Change of Quantities",
+            "Increasing and Decreasing Functions",
+            "Tangents and Normals",
+            "Approximations",
+            "Maxima and Minima"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 7: Integrals",
+          "headings": [
+            "Integration as an Inverse Process of Differentiation",
+            "Methods of Integration",
+            "Integrals of Some Particular Functions",
+            "Integration by Partial Fractions",
+            "Integration by Parts",
+            "Definite Integral",
+            "Fundamental Theorem of Calculus",
+            "Evaluation of Definite Integrals by Substitution",
+            "Some Properties of Definite Integrals"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 8: Application of Integrals",
+          "headings": [
+            "Area under Simple Curves",
+            "Area between Two Curves"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 9: Differential Equations",
+          "headings": [
+            "Basic Concepts",
+            "General and Particular Solutions of a Differential Equation",
+            "Formation of a Differential Equation whose General Solution is given",
+            "Methods of Solving First order, First degree Differential Equations"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 10: Vector Algebra",
+          "headings": [
+            "Some Basic Concepts",
+            "Types of Vectors",
+            "Addition of Vectors",
+            "Multiplication of a Vector by a Scalar",
+            "Product of Two Vectors"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 11: Three Dimensional Geometry",
+          "headings": [
+            "Direction Cosines and Direction Ratios of a Line",
+            "Equation of a Line in Space",
+            "Angle between Two Lines",
+            "Shortest Distance between Two Lines",
+            "Plane",
+            "Coplanarity of Two Lines",
+            "Angle between Two Planes",
+            "Distance of a Point from a Plane",
+            "Angle between a Line and a Plane"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 12: Linear Programming",
+          "headings": [
+            "Linear Programming Problem and its Mathematical Formulation",
+            "Different Types of Linear Programming Problems"
+          ]
+        },
+        {
+          "part": "Part II",
+          "chapter_name": "Chapter 13: Probability",
+          "headings": [
+            "Conditional Probability",
+            "Multiplication Theorem on Probability",
+            "Independent Events",
+            "Bayes' Theorem",
+            "Random Variables and its Probability Distributions",
+            "Bernoulli Trials and Binomial Distribution"
+          ]
+        }
+      ],
+      "Biology": [
+        {
+          "unit": "VI: Reproduction",
+          "chapter_name": "Chapter 1: Reproduction in Organisms",
+          "headings": [
+            "Asexual Reproduction",
+            "Sexual Reproduction"
+          ]
+        },
+        {
+          "unit": "VI: Reproduction",
+          "chapter_name": "Chapter 2: Sexual Reproduction in Flowering Plants",
+          "headings": [
+            "Flower – A Fascinating Organ of Angiosperms",
+            "Pre-fertilisation: Structures and Events",
+            "Double Fertilisation",
+            "Post-fertilisation: Structures and Events",
+            "Apomixis and Polyembryony"
+          ]
+        },
+        {
+          "unit": "VI: Reproduction",
+          "chapter_name": "Chapter 3: Human Reproduction",
+          "headings": [
+            "The Male Reproductive System",
+            "The Female Reproductive System",
+            "Gametogenesis",
+            "Menstrual Cycle",
+            "Fertilisation and Implantation",
+            "Pregnancy and Embryonic Development",
+            "Parturition and Lactation"
+          ]
+        },
+        {
+          "unit": "VI: Reproduction",
+          "chapter_name": "Chapter 4: Reproductive Health",
+          "headings": [
+            "Reproductive Health – Problems and Strategies",
+            "Population Explosion and Birth Control",
+            "Medical Termination of Pregnancy",
+            "Sexually Transmitted Diseases",
+            "Infertility"
+          ]
+        },
+        {
+          "unit": "VII: Genetics and Evolution",
+          "chapter_name": "Chapter 5: Principles of Inheritance and Variation",
+          "headings": [
+            "Mendel’s Laws of Inheritance",
+            "Inheritance of One Gene",
+            "Inheritance of Two Genes",
+            "Sex Determination",
+            "Mutation",
+            "Genetic Disorders"
+          ]
+        },
+        {
+          "unit": "VII: Genetics and Evolution",
+          "chapter_name": "Chapter 6: Molecular Basis of Inheritance",
+          "headings": [
+            "The DNA",
+            "The Search for Genetic Material",
+            "RNA World",
+            "Replication",
+            "Transcription",
+            "Genetic Code",
+            "Translation",
+            "Regulation of Gene Expression",
+            "Human Genome Project",
+            "DNA Fingerprinting"
+          ]
+        },
+        {
+          "unit": "VII: Genetics and Evolution",
+          "chapter_name": "Chapter 7: Evolution",
+          "headings": [
+            "Origin of Life",
+            "Evolution of Life Forms – A Theory",
+            "What are the Evidences for Evolution?",
+            "What is Adaptive Radiation?",
+            "Biological Evolution",
+            "Mechanism of Evolution",
+            "Hardy – Weinberg Principle",
+            "A Brief Account of Evolution",
+            "Origin and Evolution of Man"
+          ]
+        },
+        {
+          "unit": "VIII: Biology and Human Welfare",
+          "chapter_name": "Chapter 8: Human Health and Disease",
+          "headings": [
+            "Common Diseases in Humans",
+            "Immunity",
+            "AIDS",
+            "Cancer",
+            "Drugs and Alcohol Abuse"
+          ]
+        },
+        {
+          "unit": "VIII: Biology and Human Welfare",
+          "chapter_name": "Chapter 9: Strategies for Enhancement in Food Production",
+          "headings": [
+            "Animal Husbandry",
+            "Plant Breeding",
+            "Single Cell Protein",
+            "Tissue Culture"
+          ]
+        },
+        {
+          "unit": "VIII: Biology and Human Welfare",
+          "chapter_name": "Chapter 10: Microbes in Human Welfare",
+          "headings": [
+            "Microbes in Household Products",
+            "Microbes in Industrial Products",
+            "Microbes in Sewage Treatment",
+            "Microbes in Production of Biogas",
+            "Microbes as Biocontrol Agents",
+            "Microbes as Biofertilisers"
+          ]
+        },
+        {
+          "unit": "IX: Biotechnology",
+          "chapter_name": "Chapter 11: Biotechnology: Principles and Processes",
+          "headings": [
+            "Principles of Biotechnology",
+            "Tools of Recombinant DNA Technology",
+            "Processes of Recombinant DNA Technology"
+          ]
+        },
+        {
+          "unit": "IX: Biotechnology",
+          "chapter_name": "Chapter 12: Biotechnology and its Applications",
+          "headings": [
+            "Biotechnological Applications in Agriculture",
+            "Biotechnological Applications in Medicine",
+            "Transgenic Animals",
+            "Ethical Issues"
+          ]
+        },
+        {
+          "unit": "X: Ecology",
+          "chapter_name": "Chapter 13: Organisms and Populations",
+          "headings": [
+            "Organism and Its Environment",
+            "Populations"
+          ]
+        },
+        {
+          "unit": "X: Ecology",
+          "chapter_name": "Chapter 14: Ecosystem",
+          "headings": [
+            "Ecosystem–Structure and Function",
+            "Productivity",
+            "Decomposition",
+            "Energy Flow",
+            "Ecological Pyramids",
+            "Ecological Succession",
+            "Nutrient Cycling",
+            "Ecosystem Services"
+          ]
+        },
+        {
+          "unit": "X: Ecology",
+          "chapter_name": "Chapter 15: Biodiversity and Conservation",
+          "headings": [
+            "Biodiversity",
+            "Biodiversity Conservation"
+          ]
+        },
+        {
+          "unit": "X: Ecology",
+          "chapter_name": "Chapter 16: Environmental Issues",
+          "headings": [
+            "Air Pollution and Its Control",
+            "Water Pollution and Its Control",
+            "Solid Wastes",
+            "Agro-chemicals and their Effects",
+            "Radioactive Wastes",
+            "Greenhouse Effect and Global Warming",
+            "Ozone Depletion in the Stratosphere",
+            "Degradation by Improper Resource Utilisation and Maintenance",
+            "Deforestation"
+          ]
+        }
+      ]
+    }
+  }
+}

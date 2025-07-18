@@ -1,0 +1,1198 @@
+{
+  "Class 6": {
+    "Science": [
+      {
+        "chapter_name": "Chapter 1: Food: Where Does It Come From?",
+        "headings": ["Food Variety", "Food Materials and Sources", "Plant Parts and Animal Products as Food", "What Do Animals Eat?"]
+      },
+      {
+        "chapter_name": "Chapter 2: Components of Food",
+        "headings": ["What Do Different Food Items Contain?", "Test for Starch, Protein, and Fats", "What Do Various Nutrients Do for Our Body?", "Balanced Diet", "Deficiency Diseases"]
+      },
+      {
+        "chapter_name": "Chapter 3: Fibre to Fabric",
+        "headings": ["Variety in Fabrics", "Fibre", "Some Plant Fibres (Cotton, Jute)", "Spinning Cotton Yarn", "Yarn to Fabric"]
+      },
+      {
+        "chapter_name": "Chapter 4: Sorting Materials into Groups",
+        "headings": ["Objects Around Us", "Properties of Materials (Appearance, Hardness, Solubility, Transparency)", "Grouping Materials"]
+      },
+      {
+        "chapter_name": "Chapter 5: Separation of Substances",
+        "headings": ["Methods of Separation (Handpicking, Threshing, Winnowing, Sieving)", "Sedimentation, Decantation and Filtration", "Evaporation", "Use of More Than One Method of Separation", "Can Water Dissolve any Amount of a Substance?"]
+      },
+      {
+        "chapter_name": "Chapter 6: Changes Around Us",
+        "headings": ["Can all Changes Always be Reversed?", "Could there be Other Ways to Bring a Change? (Expansion, Contraction)"]
+      },
+      {
+        "chapter_name": "Chapter 7: Getting to Know Plants",
+        "headings": ["Herbs, Shrubs and Trees", "Stem", "Leaf", "Root", "Flower", "Parts of a Flower"]
+      },
+      {
+        "chapter_name": "Chapter 8: Body Movements",
+        "headings": ["Human Body and its Movements", "Joints (Ball and Socket, Pivotal, Hinge, Fixed)", "Gait of Animals (Earthworm, Snail, Cockroach, Birds, Fish, Snakes)"]
+      },
+      {
+        "chapter_name": "Chapter 9: The Living Organisms — Characteristics and Habitats",
+        "headings": ["Organisms and the Surroundings Where They Live", "Habitat and Adaptation", "A Journey Through Different Habitats (Deserts, Mountain Regions, Grasslands, Oceans, Ponds)", "Characteristics of Living Organisms"]
+      },
+      {
+        "chapter_name": "Chapter 10: Motion and Measurement of Distances",
+        "headings": ["Story of Transport", "How Wide is this Desk?", "Some Measurements", "Standard Units of Measurements", "Correct Measurement of Length", "Measuring the Length of a Curved Line", "Moving Things Around Us", "Types of Motion"]
+      },
+      {
+        "chapter_name": "Chapter 11: Light, Shadows and Reflections",
+        "headings": ["Transparent, Opaque and Translucent Objects", "What Exactly are Shadows?", "A Pinhole Camera", "Mirrors and Reflections"]
+      },
+      {
+        "chapter_name": "Chapter 12: Electricity and Circuits",
+        "headings": ["Electric Cell", "A Bulb Connected to an Electric Cell", "An Electric Circuit", "Electric Switch", "Electric Conductors and Insulators"]
+      },
+      {
+        "chapter_name": "Chapter 13: Fun with Magnets",
+        "headings": ["How Magnets Were Discovered", "Magnetic and Non-magnetic Materials", "Poles of Magnet", "Finding Directions", "Make Your Own Magnet", "Attraction and Repulsion Between Magnets"]
+      },
+      {
+        "chapter_name": "Chapter 14: Water",
+        "headings": ["How Much Water Do We Use?", "Where do We Get Water From?", "Water Cycle", "Back to the Oceans", "What if it Rains Heavily?", "What Happens if it Does Not Rain for a Long Period?", "How Can We Conserve Water?", "Rainwater Harvesting"]
+      },
+      {
+        "chapter_name": "Chapter 15: Air Around Us",
+        "headings": ["Is Air Present Everywhere Around Us?", "What is Air Made up of? (Nitrogen, Oxygen, Carbon Dioxide, Water Vapour, Dust and Smoke)", "How Does Oxygen Become Available to Animals and Plants Living in Water and Soil?", "How is the Oxygen in the Atmosphere Replaced?"]
+      },
+      {
+        "chapter_name": "Chapter 16: Garbage In, Garbage Out",
+        "headings": ["Dealing with Garbage", "Vermicomposting", "Think and Throw", "Recycling of Paper", "Plastics — Boon or a Curse?"]
+      }
+    ],
+    "Mathematics": [
+      {
+        "chapter_name": "Chapter 1: Knowing Our Numbers",
+        "headings": ["Comparing Numbers", "Large Numbers in Practice", "Estimation", "Using Brackets", "Roman Numerals"]
+      },
+      {
+        "chapter_name": "Chapter 2: Whole Numbers",
+        "headings": ["Predecessor and Successor", "The Number Line", "Properties of Whole Numbers", "Patterns in Whole Numbers"]
+      },
+      {
+        "chapter_name": "Chapter 3: Playing with Numbers",
+        "headings": ["Factors and Multiples", "Prime and Composite Numbers", "Tests for Divisibility of Numbers", "Common Factors and Common Multiples", "Prime Factorisation", "Highest Common Factor (HCF)", "Lowest Common Multiple (LCM)"]
+      },
+      {
+        "chapter_name": "Chapter 4: Basic Geometrical Ideas",
+        "headings": ["Points, A Line Segment, A Line, Intersecting Lines, Parallel Lines, Ray", "Curves", "Polygons", "Angles", "Triangles", "Quadrilaterals", "Circles"]
+      },
+      {
+        "chapter_name": "Chapter 5: Understanding Elementary Shapes",
+        "headings": ["Measuring Line Segments", "Angles - Right and Straight", "Angles - Acute, Obtuse and Reflex", "Measuring Angles", "Perpendicular Lines", "Classification of Triangles", "Quadrilaterals", "Polygons", "Three Dimensional Shapes"]
+      },
+      {
+        "chapter_name": "Chapter 6: Integers",
+        "headings": ["Representation of Integers on a Number Line", "Ordering of Integers", "Addition of Integers", "Subtraction of Integers with the help of a Number Line"]
+      },
+      {
+        "chapter_name": "Chapter 7: Fractions",
+        "headings": ["A Fraction", "Fraction on the Number Line", "Proper Fractions", "Improper and Mixed Fractions", "Equivalent Fractions", "Simplest Form of a Fraction", "Like Fractions", "Comparing Fractions", "Addition and Subtraction of Fractions"]
+      },
+      {
+        "chapter_name": "Chapter 8: Decimals",
+        "headings": ["Tenths", "Hundredths", "Comparing Decimals", "Using Decimals (Money, Length, Weight)", "Addition of Numbers with Decimals", "Subtraction of Decimals"]
+      },
+      {
+        "chapter_name": "Chapter 9: Data Handling",
+        "headings": ["Recording Data", "Organisation of Data", "Pictograph", "Interpretation of a Pictograph", "Drawing a Pictograph", "A Bar Graph"]
+      },
+      {
+        "chapter_name": "Chapter 10: Mensuration",
+        "headings": ["Perimeter", "Area"]
+      },
+      {
+        "chapter_name": "Chapter 11: Algebra",
+        "headings": ["Matchstick Patterns", "The Idea of a Variable", "Use of Variables in Common Rules", "Expressions with Variables", "What is an Equation?"]
+      },
+      {
+        "chapter_name": "Chapter 12: Ratio and Proportion",
+        "headings": ["Ratio", "Proportion", "Unitary Method"]
+      },
+      {
+        "chapter_name": "Chapter 13: Symmetry",
+        "headings": ["Making Symmetric Figures: Ink-blot Devils", "Figures with Two Lines of Symmetry", "Figures with Multiple Lines of Symmetry", "Reflection and Symmetry"]
+      },
+      {
+        "chapter_name": "Chapter 14: Practical Geometry",
+        "headings": ["The Circle", "A Line Segment", "Perpendiculars", "Angles"]
+      }
+    ],
+    "History (Our Pasts - I)": [
+      {
+        "chapter_name": "Chapter 1: What, Where, How and When?",
+        "headings": ["Finding out what happened", "What can we know about the past?", "Where did people live?", "Names of the land", "Finding out about the past", "One past or many?", "What do dates mean?"]
+      },
+      {
+        "chapter_name": "Chapter 2: On The Trail of the Earliest People",
+        "headings": ["The earliest people: why were they on the move?", "How do we know about these people?", "Choosing a place to live in", "Finding out about fire", "A changing environment", "Rock paintings and what they tell us", "Who did what?"]
+      },
+      {
+        "chapter_name": "Chapter 3: From Gathering to Growing Food",
+        "headings": ["The beginnings of farming and herding", "A new way of life", "Storing animals", "Finding out about the first farmers and herders", "Towards a settled life", "A closer look - Living and dying in Mehrgarh"]
+      },
+      {
+        "chapter_name": "Chapter 4: In the Earliest Cities",
+        "headings": ["The story of Harappa", "What was special about these cities?", "Houses, drains and streets", "Life in the city", "New crafts in the city", "In search of raw materials", "Food for people in the cities", "A closer look — Harappan towns in Gujarat"]
+      },
+      {
+        "chapter_name": "Chapter 5: What Books and Burials Tell Us",
+        "headings": ["One of the oldest books in the world", "How historians study the Rigveda", "Cattle, horses and chariots", "Words to describe people", "Silent sentinels — the story of the megaliths", "Finding out about social differences", "Were some burial spots meant for certain families?"]
+      },
+      {
+        "chapter_name": "Chapter 6: Kingdoms, Kings and an Early Republic",
+        "headings": ["How some men became rulers", "Janapadas", "Mahajanapadas", "Taxes", "Changes in agriculture", "A closer look — (a) Magadha (b) Vajji"]
+      },
+      {
+        "chapter_name": "Chapter 7: New Questions and Ideas",
+        "headings": ["The story of the Buddha", "Upanishads", "Jainism", "The Sangha", "Monasteries"]
+      },
+      {
+        "chapter_name": "Chapter 8: Ashoka, The Emperor Who Gave Up War",
+        "headings": ["A very big kingdom = an empire", "How are empires different from kingdoms?", "Ruling the empire", "Ashoka, a unique ruler", "Ashoka’s war in Kalinga", "What was Ashoka’s dhamma?"]
+      },
+      {
+        "chapter_name": "Chapter 9: Vital Villages, Thriving Towns",
+        "headings": ["Iron tools and agriculture", "Other steps to increase production: irrigation", "Who lived in the villages?", "Finding out about cities: stories, travellers, sculpture and archaeology", "Coins", "Cities with many functions", "Crafts and craft persons", "A closer look — Arikamedu"]
+      },
+      {
+        "chapter_name": "Chapter 10: Traders, Kings and Pilgrims",
+        "headings": ["How to find out about trade and traders", "New kingdoms along the coasts", "The story of the Silk Route", "The spread of Buddhism", "The quest of the pilgrims", "The beginning of Bhakti"]
+      },
+      {
+        "chapter_name": "Chapter 11: New Empires and Kingdoms",
+        "headings": ["Prashastis and what they tell us", "Samudragupta’s prashasti", "Genealogies", "Harshavardhana and the Harshacharita", "The Pallavas, Chalukyas and Pulakeshin’s prashasti", "How were these kingdoms administered?"]
+      },
+      {
+        "chapter_name": "Chapter 12: Buildings, Paintings and Books",
+        "headings": ["The iron pillar", "Buildings in brick and stone", "How were stupas and temples built?", "Paintings", "The world of books", "Epics", "Stories told by ordinary people", "Writing books on science"]
+      }
+    ],
+    "Geography (The Earth: Our Habitat)": [
+      {
+        "chapter_name": "Chapter 1: The Earth in the Solar System",
+        "headings": ["The Solar System", "The Sun", "Planets", "The Earth", "The Moon", "Asteroids and Meteoroids"]
+      },
+      {
+        "chapter_name": "Chapter 2: Globe: Latitudes and Longitudes",
+        "headings": ["Important Parallels of Latitude", "Heat Zones of the Earth", "What are Longitudes?", "Longitude and Time", "Why do we have Standard Time?"]
+      },
+      {
+        "chapter_name": "Chapter 3: Motions of the Earth",
+        "headings": ["Rotation", "Revolution", "Leap Year", "Summer Solstice", "Winter Solstice", "Equinox"]
+      },
+      {
+        "chapter_name": "Chapter 4: Maps",
+        "headings": ["Physical Maps, Political Maps, Thematic Maps", "Components of Maps: Distance, Direction, Symbols"]
+      },
+      {
+        "chapter_name": "Chapter 5: Major Domains of the Earth",
+        "headings": ["Lithosphere", "Hydrosphere", "Atmosphere", "Biosphere – The Domain of Life"]
+      },
+      {
+        "chapter_name": "Chapter 6: Major Landforms of the Earth",
+        "headings": ["Mountains", "Plateaus", "Plains", "Landforms and the People"]
+      },
+      {
+        "chapter_name": "Chapter 7: Our Country - India",
+        "headings": ["Locational Setting", "India’s Neighbours", "Political and Administrative Divisions", "Physical Divisions"]
+      },
+      {
+        "chapter_name": "Chapter 8: India: Climate, Vegetation and Wildlife",
+        "headings": ["Weather and Seasons (Cold Weather, Hot Weather, Southwest Monsoon, Retreating Monsoons)", "Natural Vegetation", "Why are Forests Necessary?", "Wildlife"]
+      }
+    ],
+    "Social and Political Life - I": [
+      {
+        "chapter_name": "Chapter 1: Understanding Diversity",
+        "headings": ["Making friends", "What does diversity add to our lives?", "Diversity in India", "How do we explain diversity?", "Unity in Diversity"]
+      },
+      {
+        "chapter_name": "Chapter 2: Diversity and Discrimination",
+        "headings": ["Difference and Prejudice", "Creating Stereotypes", "Inequality and Discrimination", "On Being Discriminated Against", "Striving for Equality"]
+      },
+      {
+        "chapter_name": "Chapter 3: What is Government?",
+        "headings": ["Levels of Government", "Laws and the Government", "Types of Government (Democracy, Monarchy)", "Democratic Governments"]
+      },
+      {
+        "chapter_name": "Chapter 4: Key Elements of a Democratic Government",
+        "headings": ["Participation", "Other ways of participating", "Need to resolve conflict", "Equality and justice"]
+      },
+      {
+        "chapter_name": "Chapter 5: Panchayati Raj",
+        "headings": ["Gram Sabha", "The Gram Panchayat", "Three Levels of Panchayats"]
+      },
+      {
+        "chapter_name": "Chapter 6: Rural Administration",
+        "headings": ["A Quarrel in the Village", "Area of the Police Station", "Maintenance of Land Records", "A New Law (Hindu Succession Amendment Act, 2005)"]
+      },
+      {
+        "chapter_name": "Chapter 7: Urban Administration",
+        "headings": ["The Ward Councillor and Administrative Staff", "How does the Municipal Corporation get its money?", "A Community Protest", "What has changed?"]
+      },
+      {
+        "chapter_name": "Chapter 8: Rural Livelihoods",
+        "headings": ["Kalpattu Village (Thulasi, Sekar, Ramalingam)", "On being in Debt", "Agricultural Labourers and Farmers in India"]
+      },
+      {
+        "chapter_name": "Chapter 9: Urban Livelihoods",
+        "headings": ["Working on the Street", "In the Market", "A Factory-workshop Area", "In the Office"]
+      }
+    ]
+  },
+  "Class 7": {
+    "Science": [
+      {
+        "chapter_name": "Chapter 1: Nutrition in Plants",
+        "headings": ["Mode of Nutrition in Plants", "Photosynthesis: Food Making Process in Plants", "Other Modes of Nutrition in Plants (Heterotrophic, Parasitic, Saprotrophic, Symbiotic)", "How Nutrients are Replenished in the Soil"]
+      },
+      {
+        "chapter_name": "Chapter 2: Nutrition in Animals",
+        "headings": ["Different Ways of Taking Food", "Digestion in Humans (The Mouth, Foodpipe, Stomach, Small Intestine, Large Intestine)", "Digestion in Grass-eating Animals", "Feeding and Digestion in Amoeba"]
+      },
+      {
+        "chapter_name": "Chapter 3: Fibre to Fabric",
+        "headings": ["Animal Fibres - Wool and Silk", "From Fibres to Wool", "Silk"]
+      },
+      {
+        "chapter_name": "Chapter 4: Heat",
+        "headings": ["Hot and Cold", "Measuring Temperature", "Laboratory Thermometer", "Transfer of Heat (Conduction, Convection, Radiation)", "Kinds of Clothes We Wear in Summer and Winter"]
+      },
+      {
+        "chapter_name": "Chapter 5: Acids, Bases and Salts",
+        "headings": ["Acids and Bases", "Natural Indicators Around Us (Litmus, Turmeric, China Rose)", "Neutralisation", "Neutralisations in Everyday Life"]
+      },
+      {
+        "chapter_name": "Chapter 6: Physical and Chemical Changes",
+        "headings": ["Physical Changes", "Chemical Change (Rusting of Iron)", "Crystallisation"]
+      },
+      {
+        "chapter_name": "Chapter 7: Weather, Climate and Adaptations of Animals to Climate",
+        "headings": ["Weather", "Climate", "Climate and Adaptation (The Polar Regions, The Tropical Rainforests)"]
+      },
+      {
+        "chapter_name": "Chapter 8: Winds, Storms and Cyclones",
+        "headings": ["Air Exerts Pressure", "High-speed Winds are Accompanied by Reduced Air Pressure", "Air Expands on Heating", "Wind Currents are Generated Due to Uneven Heating on the Earth", "Thunderstorms and Cyclones", "Destruction Caused by Cyclones", "Effective Safety Measures"]
+      },
+      {
+        "chapter_name": "Chapter 9: Soil",
+        "headings": ["Soil Profile", "Soil Types (Sandy, Clayey, Loamy)", "Properties of Soil", "Moisture in Soil", "Absorption of Water by Soil", "Soil and Crops"]
+      },
+      {
+        "chapter_name": "Chapter 10: Respiration in Organisms",
+        "headings": ["Why do we Respire?", "Breathing", "How do we Breathe?", "What do we Breathe Out?", "Breathing in Other Animals", "Breathing Under Water", "Do Plants Also Respire?"]
+      },
+      {
+        "chapter_name": "Chapter 11: Transportation in Animals and Plants",
+        "headings": ["Circulatory System (Blood, Blood Vessels, Heart, Heartbeat)", "Excretion in Animals", "Transport of Substances in Plants (Transport of Water and Minerals, Transpiration)"]
+      },
+      {
+        "chapter_name": "Chapter 12: Reproduction in Plants",
+        "headings": ["Modes of Reproduction (Asexual, Sexual)", "Vegetative Propagation", "Budding", "Fragmentation", "Spore Formation", "Sexual Reproduction (Flowers, Pollination)", "Fertilisation", "Fruits and Seed Formation", "Seed Dispersal"]
+      },
+      {
+        "chapter_name": "Chapter 13: Motion and Time",
+        "headings": ["Slow or Fast", "Speed", "Measurement of Time", "Units of Time and Speed", "Measuring Speed", "Distance-Time Graph"]
+      },
+      {
+        "chapter_name": "Chapter 14: Electric Current and its Effects",
+        "headings": ["Symbols of Electric Components", "Heating Effect of Electric Current", "Magnetic Effect of Electric Current", "Electromagnet", "Electric Bell"]
+      },
+      {
+        "chapter_name": "Chapter 15: Light",
+        "headings": ["Light Travels Along a Straight Line", "Reflection of Light", "Right or Left! (Image formation by a plane mirror)", "Playing with Spherical Mirrors (Concave, Convex)", "Images Formed by Lenses", "Sunlight — White or Coloured? (Rainbow)"]
+      },
+      {
+        "chapter_name": "Chapter 16: Water: A Precious Resource",
+        "headings": ["How Much Water is Available?", "Forms of Water", "Groundwater as an Important Source of Water", "Depletion of Water Table", "Distribution of Water", "Water Management", "What can you do?"]
+      },
+      {
+        "chapter_name": "Chapter 17: Forests: Our Lifeline",
+        "headings": ["A Visit to a Forest", "Forest as a system (interdependence of plants, animals, and decomposers)", "Importance of Forests"]
+      },
+      {
+        "chapter_name": "Chapter 18: Wastewater Story",
+        "headings": ["Water, Our Lifeline", "What is Sewage?", "Water Freshens Up – An Eventful Journey", "Wastewater Treatment Plant (WWTP)", "Better Housekeeping Practices", "Sanitation and Disease"]
+      }
+    ],
+    "Mathematics": [
+      {
+        "chapter_name": "Chapter 1: Integers",
+        "headings": ["Properties of Addition and Subtraction of Integers", "Multiplication of Integers", "Properties of Multiplication of Integers", "Division of Integers", "Properties of Division of Integers"]
+      },
+      {
+        "chapter_name": "Chapter 2: Fractions and Decimals",
+        "headings": ["Multiplication of Fractions", "Division of Fractions", "Multiplication of Decimal Numbers", "Division of Decimal Numbers"]
+      },
+      {
+        "chapter_name": "Chapter 3: Data Handling",
+        "headings": ["Collecting and Organising Data", "Representative Values (Arithmetic Mean, Mode, Median)", "Use of Bar Graphs with a Different Purpose", "Chance and Probability"]
+      },
+      {
+        "chapter_name": "Chapter 4: Simple Equations",
+        "headings": ["Setting up an Equation", "Solving an Equation", "More Equations", "Applications of Simple Equations to Practical Situations"]
+      },
+      {
+        "chapter_name": "Chapter 5: Lines and Angles",
+        "headings": ["Related Angles (Complementary, Supplementary, Adjacent, Linear Pair, Vertically Opposite)", "Pairs of Lines (Intersecting, Transversal, Parallel)", "Checking for Parallel Lines"]
+      },
+      {
+        "chapter_name": "Chapter 6: The Triangle and its Properties",
+        "headings": ["Medians and Altitudes of a Triangle", "Exterior Angle of a Triangle and its Property", "Angle Sum Property of a Triangle", "Sum of the Lengths of Two Sides of a Triangle", "Right-angled Triangles and Pythagoras Property"]
+      },
+      {
+        "chapter_name": "Chapter 7: Congruence of Triangles",
+        "headings": ["Congruence of Plane Figures", "Congruence among Line Segments", "Congruence of Angles", "Congruence of Triangles", "Criteria for Congruence of Triangles (SSS, SAS, ASA, RHS)"]
+      },
+      {
+        "chapter_name": "Chapter 8: Comparing Quantities",
+        "headings": ["Equivalent Ratios", "Percentage – Another Way of Comparing Quantities", "Use of Percentages", "Prices Related to an Item or Buying and Selling", "Simple Interest"]
+      },
+      {
+        "chapter_name": "Chapter 9: Rational Numbers",
+        "headings": ["Need for Rational Numbers", "Equivalent Rational Numbers", "Rational Numbers on a Number Line", "Rational Numbers in Standard Form", "Comparison of Rational Numbers", "Operations on Rational Numbers"]
+      },
+      {
+        "chapter_name": "Chapter 10: Practical Geometry",
+        "headings": ["Construction of a Line Parallel to a Given Line", "Construction of Triangles (SSS, SAS, ASA, RHS criteria)"]
+      },
+      {
+        "chapter_name": "Chapter 11: Perimeter and Area",
+        "headings": ["Squares and Rectangles", "Area of a Parallelogram", "Area of a Triangle", "Circles (Circumference, Area)"]
+      },
+      {
+        "chapter_name": "Chapter 12: Algebraic Expressions",
+        "headings": ["How are Expressions Formed?", "Terms of an Expression", "Like and Unlike Terms", "Addition and Subtraction of Algebraic Expressions", "Finding the Value of an Expression"]
+      },
+      {
+        "chapter_name": "Chapter 13: Exponents and Powers",
+        "headings": ["Exponents", "Laws of Exponents", "Decimal Number System", "Expressing Large Numbers in the Standard Form"]
+      },
+      {
+        "chapter_name": "Chapter 14: Symmetry",
+        "headings": ["Lines of Symmetry for Regular Polygons", "Rotational Symmetry", "Line Symmetry and Rotational Symmetry"]
+      },
+      {
+        "chapter_name": "Chapter 15: Visualising Solid Shapes",
+        "headings": ["Plane Figures and Solid Shapes", "Faces, Edges and Vertices", "Nets for Building 3-D Shapes", "Drawing Solids on a Flat Surface", "Viewing Different Sections of a Solid"]
+      }
+    ],
+    "History (Our Pasts - II)": [
+      {
+        "chapter_name": "Chapter 1: Tracing Changes Through A Thousand Years",
+        "headings": ["New and Old Terminologies", "Historians and their Sources", "New Social and Political Groups", "Region and Empire", "Old and New Religions", "Thinking about Time and Historical Periods"]
+      },
+      {
+        "chapter_name": "Chapter 2: New Kings And Kingdoms",
+        "headings": ["The Emergence of New Dynasties", "Administration in the Kingdoms", "Prashastis and Land Grants", "Warfare for Wealth", "A Closer Look: The Cholas"]
+      },
+      {
+        "chapter_name": "Chapter 3: The Delhi Sultans",
+        "headings": ["Finding Out about the Delhi Sultans", "From Garrison Town to Empire: The Expansion of the Delhi Sultanate", "A Closer Look: Administration and Consolidation under the Khaljis and Tughluqs", "The Sultanate in the Fifteenth and Sixteenth Centuries"]
+      },
+      {
+        "chapter_name": "Chapter 4: The Mughal Empire",
+        "headings": ["Who were the Mughals?", "Mughal Military Campaigns", "Mughal Emperors", "Mughal Traditions of Succession", "Mughal Relations with Other Rulers", "Mansabdars and Jagirdars", "Zabt and Zamindars", "A Closer Look: Akbar’s Policies", "The Mughal Empire in the Seventeenth Century and After"]
+      },
+      {
+        "chapter_name": "Chapter 5: Rulers And Buildings",
+        "headings": ["Engineering Skills and Construction", "Building Temples, Mosques and Tanks", "Why were Temples Destroyed?", "Gardens, Tombs and Forts", "Region and Empire"]
+      },
+      {
+        "chapter_name": "Chapter 6: Towns, Traders And Craftspersons",
+        "headings": ["Administrative Centres", "Temple Towns and Pilgrimage Centres", "A Network of Small Towns", "Traders Big and Small", "Crafts in Towns", "A Closer Look: Hampi, Masulipatnam and Surat"]
+      },
+      {
+        "chapter_name": "Chapter 7: Tribes, Nomads And Settled Communities",
+        "headings": ["Beyond Big Cities: Tribal Societies", "Who were Tribal People?", "How Nomads and Mobile People Lived", "Changing Society: New Castes and Hierarchies", "A Closer Look: The Gonds, The Ahoms"]
+      },
+      {
+        "chapter_name": "Chapter 8: Devotional Paths To The Divine",
+        "headings": ["The Idea of a Supreme God", "A New Kind of Bhakti in South India – Nayanars and Alvars", "Philosophy and Bhakti", "Basavanna’s Virashaivism", "The Saints of Maharashtra", "Nathpanthis, Siddhas and Yogis", "Islam and Sufism", "New Religious Developments in North India", "A Closer Look: Kabir, Baba Guru Nanak"]
+      },
+      {
+        "chapter_name": "Chapter 9: The Making Of Regional Cultures",
+        "headings": ["The Cheras and the Development of Malayalam", "Rulers and Religious Traditions: The Jagannatha Cult", "The Rajputs and Traditions of Heroism", "Beyond Regional Frontiers: The Story of Kathak", "Painting for Patrons: The Tradition of Miniatures", "The Growth of a Regional Language: Bengali", "Pirs and Temples"]
+      },
+      {
+        "chapter_name": "Chapter 10: Eighteenth-Century Political Formations",
+        "headings": ["The Crisis of the Empire and the Later Mughals", "Emergence of New States", "The Old Mughal Provinces (Hyderabad, Awadh, Bengal)", "The Watan Jagirs of the Rajputs", "Seizing Independence (The Sikhs, The Marathas, The Jats)"]
+      }
+    ],
+    "Geography (Our Environment)": [
+      {
+        "chapter_name": "Chapter 1: Environment",
+        "headings": ["Components of Environment (Natural, Human Made, Human)", "Natural Environment (Lithosphere, Hydrosphere, Atmosphere, Biosphere)", "Ecosystem"]
+      },
+      {
+        "chapter_name": "Chapter 2: Inside Our Earth",
+        "headings": ["Interior of the Earth (Crust, Mantle, Core)", "Rocks and Minerals", "Types of Rocks (Igneous, Sedimentary, Metamorphic)", "Rock Cycle"]
+      },
+      {
+        "chapter_name": "Chapter 3: Our Changing Earth",
+        "headings": ["Lithospheric Plates", "Forces of the Earth (Endogenic, Exogenic)", "Earthquake", "Major Landforms (Work of a River, Work of Sea Waves, Work of Ice, Work of Wind)"]
+      },
+      {
+        "chapter_name": "Chapter 4: Air",
+        "headings": ["Composition of the Atmosphere", "Structure of the Atmosphere (Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere)", "Weather and Climate", "Temperature", "Air Pressure", "Wind", "Moisture"]
+      },
+      {
+        "chapter_name": "Chapter 5: Water",
+        "headings": ["Water Cycle", "Distribution of Water Bodies", "Ocean Circulation (Waves, Tides, Ocean Currents)"]
+      },
+      {
+        "chapter_name": "Chapter 6: Natural Vegetation and Wildlife",
+        "headings": ["Forests (Tropical Evergreen, Tropical Deciduous, Temperate Evergreen, Temperate Deciduous, Mediterranean, Coniferous)", "Grasslands (Tropical, Temperate)", "Thorny Bushes", "Tundra"]
+      },
+      {
+        "chapter_name": "Chapter 7: Human Environment–Settlement, Transport and Communication",
+        "headings": ["Settlements (Rural, Urban)", "Transport (Roadways, Railways, Waterways, Airways)", "Communication"]
+      },
+      {
+        "chapter_name": "Chapter 8: Human Environment Interactions: The Tropical and the Subtropical Region",
+        "headings": ["Life in the Amazon Basin", "Life in the Ganga-Brahmaputra Basin"]
+      },
+      {
+        "chapter_name": "Chapter 9: Life in the Deserts",
+        "headings": ["The Hot Desert – Sahara", "The Cold Desert – Ladakh"]
+      }
+    ],
+    "Social and Political Life - II": [
+      {
+        "chapter_name": "Chapter 1: On Equality",
+        "headings": ["Equal Right to Vote", "Other Kinds of Equality", "Recognising Dignity", "Equality in Indian Democracy", "Issues of Equality in Other Democracies", "Challenge of Democracy"]
+      },
+      {
+        "chapter_name": "Chapter 2: Role of the Government in Health",
+        "headings": ["What is Health?", "Healthcare in India", "Public and Private Healthcare Services", "What can be done?"]
+      },
+      {
+        "chapter_name": "Chapter 3: How the State Government Works",
+        "headings": ["Who is an MLA?", "A Debate in the Legislative Assembly", "Working of the Government"]
+      },
+      {
+        "chapter_name": "Chapter 4: Growing Up as Boys and Girls",
+        "headings": ["Growing up in Samoa in the 1920s", "Growing up Male in Madhya Pradesh in the 1960s", "Valuing Housework", "Women’s Work and Equality"]
+      },
+      {
+        "chapter_name": "Chapter 5: Women Change the World",
+        "headings": ["Fewer Opportunities and Rigid Expectations", "Learning for Change", "Schooling and Education Today", "Women’s Movement"]
+      },
+      {
+        "chapter_name": "Chapter 6: Understanding Media",
+        "headings": ["Media and Technology", "Media and Money", "Media and Democracy", "Setting Agendas"]
+      },
+      {
+        "chapter_name": "Chapter 7: Markets Around Us",
+        "headings": ["Weekly Market", "Shops in the Neighbourhood", "Shopping complexes and malls", "Chain of markets", "Markets and Equality"]
+      },
+      {
+        "chapter_name": "Chapter 8: A Shirt in the Market",
+        "headings": ["A cotton farmer in Kurnool", "The cloth market of Erode", "The garment exporting factory near Delhi", "The shirt in the United States", "Market and equality"]
+      },
+      {
+        "chapter_name": "Chapter 9: Struggles for Equality",
+        "headings": ["Struggles for Equality", "Tawa Matsya Sangh", "The Indian Constitution as a living document"]
+      }
+    ]
+  },
+  "Class 8": {
+    "Science": [
+      {
+        "chapter_name": "Chapter 1: Crop Production and Management",
+        "headings": ["Agricultural Practices", "Basic Practices of Crop Production (Preparation of Soil, Sowing, Adding Manure and Fertilisers, Irrigation, Protection from Weeds, Harvesting, Storage)", "Food from Animals"]
+      },
+      {
+        "chapter_name": "Chapter 2: Microorganisms: Friend and Foe",
+        "headings": ["Where do Microorganisms Live?", "Microorganisms and Us (Friendly and Harmful Microorganisms)", "Food Preservation", "Nitrogen Fixation and Nitrogen Cycle"]
+      },
+      {
+        "chapter_name": "Chapter 3: Synthetic Fibres and Plastics",
+        "headings": ["What are Synthetic Fibres?", "Types of Synthetic Fibres (Rayon, Nylon, Polyester and Acrylic)", "Characteristics of Synthetic Fibres", "Plastics", "Plastics as Materials of Choice", "Plastics and the Environment"]
+      },
+      {
+        "chapter_name": "Chapter 4: Materials: Metals and Non-Metals",
+        "headings": ["Physical Properties of Metals and Non-metals", "Chemical Properties of Metals and Non-metals", "Uses of Metals and Non-metals"]
+      },
+      {
+        "chapter_name": "Chapter 5: Coal and Petroleum",
+        "headings": ["Coal", "Petroleum", "Natural Gas", "Some Natural Resources are Limited"]
+      },
+      {
+        "chapter_name": "Chapter 6: Combustion and Flame",
+        "headings": ["What is Combustion?", "How Do We Control Fire?", "Types of Combustion", "Flame", "Structure of a Flame", "What is a Fuel?", "Fuel Efficiency"]
+      },
+      {
+        "chapter_name": "Chapter 7: Conservation of Plants and Animals",
+        "headings": ["Deforestation and Its Causes", "Consequences of Deforestation", "Conservation of Forest and Wildlife", "Biosphere Reserve", "Flora and Fauna", "Endemic Species", "Wildlife Sanctuary", "National Park", "Red Data Book", "Migration", "Recycling of Paper", "Reforestation"]
+      },
+      {
+        "chapter_name": "Chapter 8: Cell — Structure and Functions",
+        "headings": ["Discovery of the Cell", "The Cell", "Organisms show Variety in Cell Number, Shape and Size", "Cell Structure and Function", "Parts of the Cell", "Comparison of Plant and Animal Cells"]
+      },
+      {
+        "chapter_name": "Chapter 9: Reproduction in Animals",
+        "headings": ["Modes of Reproduction (Sexual and Asexual)", "Sexual Reproduction", "Asexual Reproduction (Budding, Binary Fission)", "The Story of Dolly the Clone"]
+      },
+      {
+        "chapter_name": "Chapter 10: Reaching the Age of Adolescence",
+        "headings": ["Adolescence and Puberty", "Changes at Puberty", "Secondary Sexual Characters", "Role of Hormones in Initiating Reproductive Function", "Reproductive Phase of Life in Humans", "How is the Sex of the Baby Determined?", "Hormones other than Sex Hormones", "Reproductive Health"]
+      },
+      {
+        "chapter_name": "Chapter 11: Force and Pressure",
+        "headings": ["Force: A Push or a Pull", "Forces are due to an Interaction", "Exploring Forces", "A Force can Change the State of Motion", "Force can Change the Shape of an Object", "Contact Forces", "Non-contact Forces", "Pressure", "Pressure Exerted by Liquids and Gases", "Atmospheric Pressure"]
+      },
+      {
+        "chapter_name": "Chapter 12: Friction",
+        "headings": ["Force of Friction", "Factors affecting Friction", "Friction: A Necessary Evil", "Increasing and Reducing Friction", "Wheels Reduce Friction", "Fluid Friction"]
+      },
+      {
+        "chapter_name": "Chapter 13: Sound",
+        "headings": ["Sound is Produced by a Vibrating Body", "Sound Produced by Humans", "Sound Needs a Medium for Propagation", "We Hear Sound through Our Ears", "Amplitude, Time Period and Frequency of a Vibration", "Audible and Inaudible Sounds", "Noise and Music", "Noise Pollution"]
+      },
+      {
+        "chapter_name": "Chapter 14: Chemical Effects of Electric Current",
+        "headings": ["Do Liquids Conduct Electricity?", "Chemical Effects of Electric Current", "Electroplating"]
+      },
+      {
+        "chapter_name": "Chapter 15: Some Natural Phenomena",
+        "headings": ["Lightning", "Charging by Rubbing", "Types of Charges and Their Interaction", "Transfer of Charge", "The Story of Lightning", "Lightning Safety", "Earthquakes"]
+      },
+      {
+        "chapter_name": "Chapter 16: Light",
+        "headings": ["What makes Things Visible?", "Laws of Reflection", "Regular and Diffused Reflection", "Reflected Light Can be Reflected Again", "Multiple Images", "Sunlight — White or Coloured?", "What is inside Our Eyes?", "Care of the Eyes", "Visually Impaired Persons Can Read and Write", "The Braille System"]
+      },
+      {
+        "chapter_name": "Chapter 17: Stars and the Solar System",
+        "headings": ["The Moon", "The Stars", "Constellations", "The Solar System", "Some Other Members of the Solar System"]
+      },
+      {
+        "chapter_name": "Chapter 18: Pollution of Air and Water",
+        "headings": ["Air Pollution", "Case Study—The Taj Mahal", "Greenhouse Effect", "What can be Done?", "Water Pollution", "What is Potable Water and How is Water Purified?"]
+      }
+    ],
+    "Mathematics": [
+      {
+        "chapter_name": "Chapter 1: Rational Numbers",
+        "headings": ["Properties of Rational Numbers", "Role of Zero (0)", "Role of One (1)", "Representation of Rational Numbers on the Number Line", "Rational Numbers between Two Rational Numbers"]
+      },
+      {
+        "chapter_name": "Chapter 2: Linear Equations in One Variable",
+        "headings": ["Solving Equations which have Linear Expressions on one Side and Numbers on the other Side", "Solving Equations having the Variable on both Sides", "Reducing Equations to Simpler Form", "Equations Reducible to the Linear Form"]
+      },
+      {
+        "chapter_name": "Chapter 3: Understanding Quadrilaterals",
+        "headings": ["Polygons", "Sum of the Measures of the Exterior Angles of a Polygon", "Kinds of Quadrilaterals (Trapezium, Kite, Parallelogram)", "Some Special Parallelograms (Rhombus, Rectangle, Square)"]
+      },
+      {
+        "chapter_name": "Chapter 4: Practical Geometry",
+        "headings": ["Constructing a Quadrilateral when lengths of four sides and a diagonal are given", "When two diagonals and three sides are given", "When two adjacent sides and three angles are known", "When three sides and two included angles are given", "Some special cases"]
+      },
+      {
+        "chapter_name": "Chapter 5: Data Handling",
+        "headings": ["Looking for Information", "Organising Data", "Grouping Data", "Circle Graph or Pie Chart", "Chance and Probability"]
+      },
+      {
+        "chapter_name": "Chapter 6: Squares and Square Roots",
+        "headings": ["Properties of Square Numbers", "Finding the Square of a Number", "Square Roots", "Finding Square Root through Repeated Subtraction", "Finding Square Root through Prime Factorisation", "Finding Square Root by Division Method", "Square Roots of Decimals"]
+      },
+      {
+        "chapter_name": "Chapter 7: Cubes and Cube Roots",
+        "headings": ["Cubes", "Cube Roots", "Cube Root through Prime Factorisation Method"]
+      },
+      {
+        "chapter_name": "Chapter 8: Comparing Quantities",
+        "headings": ["Recalling Ratios and Percentages", "Finding the Increase or Decrease Percent", "Finding Discounts", "Prices Related to Buying and Selling (Profit and Loss)", "Sales Tax/Value Added Tax/Goods and Services Tax", "Compound Interest", "Applications of Compound Interest Formula"]
+      },
+      {
+        "chapter_name": "Chapter 9: Algebraic Expressions and Identities",
+        "headings": ["Terms, Factors and Coefficients", "Monomials, Binomials and Polynomials", "Addition and Subtraction of Algebraic Expressions", "Multiplication of Algebraic Expressions", "What is an Identity?", "Standard Identities"]
+      },
+      {
+        "chapter_name": "Chapter 10: Visualising Solid Shapes",
+        "headings": ["Views of 3D-Shapes", "Mapping Space Around Us", "Faces, Edges and Vertices", "Euler's Formula"]
+      },
+      {
+        "chapter_name": "Chapter 11: Mensuration",
+        "headings": ["Area of Trapezium", "Area of a General Quadrilateral", "Area of a Polygon", "Solid Shapes", "Surface Area of Cube, Cuboid and Cylinder", "Volume of Cube, Cuboid and Cylinder"]
+      },
+      {
+        "chapter_name": "Chapter 12: Exponents and Powers",
+        "headings": ["Powers with Negative Exponents", "Laws of Exponents", "Use of Exponents to Express Small Numbers in Standard Form"]
+      },
+      {
+        "chapter_name": "Chapter 13: Direct and Inverse Proportions",
+        "headings": ["Direct Proportion", "Inverse Proportion"]
+      },
+      {
+        "chapter_name": "Chapter 14: Factorisation",
+        "headings": ["What is Factorisation?", "Method of Common Factors", "Factorisation by Regrouping Terms", "Factorisation using Identities", "Factors of the form (x + a)(x + b)", "Division of Algebraic Expressions"]
+      },
+      {
+        "chapter_name": "Chapter 15: Introduction to Graphs",
+        "headings": ["A Bar Graph, A Pie Graph, A Histogram, A Line Graph", "Linear Graphs", "Coordinates"]
+      },
+      {
+        "chapter_name": "Chapter 16: Playing with Numbers",
+        "headings": ["Numbers in General Form", "Games with Numbers", "Letters for Digits", "Tests of Divisibility"]
+      }
+    ],
+    "History (Our Pasts - III)": [
+      {
+        "chapter_name": "Chapter 1: How, When and Where",
+        "headings": ["How Important are Dates?", "Which dates?", "How do we periodise?", "What is colonial?"]
+      },
+      {
+        "chapter_name": "Chapter 2: From Trade to Territory",
+        "headings": ["East India Company Comes East", "East India Company begins trade in Bengal", "How trade led to battles", "The Battle of Plassey", "Company Officials become 'nabobs'", "Company Rule Expands", "Tipu Sultan – The 'Tiger of Mysore'", "War with the Marathas", "The claim to paramountcy", "The Doctrine of Lapse", "Setting up a New Administration"]
+      },
+      {
+        "chapter_name": "Chapter 3: Ruling the Countryside",
+        "headings": ["The Company Becomes the Diwan", "Revenue for the Company", "The need to improve agriculture", "The problem", "A new system is devised", "The Munro system", "Crops for Europe", "The Blue Rebellion and After"]
+      },
+      {
+        "chapter_name": "Chapter 4: Tribals, Dikus and the Vision of a Golden Age",
+        "headings": ["How Did Tribal Groups Live?", "How Did Colonial Rule Affect Tribal Lives?", "A Closer Look: Birsa Munda"]
+      },
+      {
+        "chapter_name": "Chapter 5: When People Rebel",
+        "headings": ["Policies and the People", "Nawabs lose their power", "The peasants and the sepoys", "Responses to reforms", "Through the Eyes of the People", "A Mutiny Becomes a Popular Rebellion", "From Meerut to Delhi", "The rebellion spreads", "The Company Fights Back", "Aftermath"]
+      },
+      {
+        "chapter_name": "Chapter 6: Weavers, Iron Smelters and Factory Owners",
+        "headings": ["Indian Textiles and the World Market", "What happened to the weavers?", "Cotton mills come up", "The sword of Tipu Sultan and Wootz steel", "Iron and steel factories come up in India"]
+      },
+      {
+        "chapter_name": "Chapter 7: Civilising the 'Native', Educating the Nation",
+        "headings": ["How the British saw Education", "The tradition of Orientalism", "'Grave errors of the East'", "Education for commerce", "What Happened to the Local Schools?", "The agenda for a national education"]
+      },
+      {
+        "chapter_name": "Chapter 8: Women, Caste and Reform",
+        "headings": ["Working Towards Change", "Changing the lives of widows", "Girls begin going to school", "Caste and Social Reform", "Demands for equality and justice", "The Non-Brahman movement"]
+      },
+      {
+        "chapter_name": "Chapter 9: The Making of the National Movement: 1870s-1947",
+        "headings": ["The Emergence of Nationalism", "A nation in the making", "The Growth of Mass Nationalism", "The Advent of Mahatma Gandhi", "The People's Mahatma", "The happenings of 1922-1929", "The March to Dandi", "Quit India and Later"]
+      },
+      {
+        "chapter_name": "Chapter 10: India After Independence",
+        "headings": ["A New and Divided Nation", "A Constitution is Written", "How were States to be Formed?", "Planning for Development", "The Nation, Sixty Years On"]
+      }
+    ],
+    "Geography (Resource and Development)": [
+      {
+        "chapter_name": "Chapter 1: Resources",
+        "headings": ["Types of Resources (Natural, Human Made, Human)", "Conserving Resources"]
+      },
+      {
+        "chapter_name": "Chapter 2: Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+        "headings": ["Land", "Soil", "Water", "Natural Vegetation and Wildlife", "Conservation of Natural Vegetation and Wildlife"]
+      },
+      {
+        "chapter_name": "Chapter 3: Mineral and Power Resources",
+        "headings": ["Types of Minerals", "Extraction of Minerals", "Distribution of Minerals", "Conservation of Minerals", "Power Resources (Conventional and Non-conventional)"]
+      },
+      {
+        "chapter_name": "Chapter 4: Agriculture",
+        "headings": ["Farm System", "Types of Farming (Subsistence, Commercial)", "Major Crops", "Agricultural Development"]
+      },
+      {
+        "chapter_name": "Chapter 5: Industries",
+        "headings": ["Classification of Industries", "Factors Affecting Location of Industries", "Industrial System", "Industrial Regions", "Distribution of Major Industries", "Information Technology"]
+      },
+      {
+        "chapter_name": "Chapter 6: Human Resources",
+        "headings": ["Distribution of Population", "Density of Population", "Factors Affecting Distribution of Population", "Population Change", "Patterns of Population Change", "Population Composition"]
+      }
+    ],
+    "Social and Political Life - III": [
+      {
+        "chapter_name": "Chapter 1: The Indian Constitution",
+        "headings": ["Why does a Country need a Constitution?", "The Indian Constitution: Key Features (Federalism, Parliamentary Form of Government, Separation of Powers, Fundamental Rights, Secularism)"]
+      },
+      {
+        "chapter_name": "Chapter 2: Understanding Secularism",
+        "headings": ["What is Secularism?", "Why is it Important to Separate Religion from the State?", "What is Indian Secularism?"]
+      },
+      {
+        "chapter_name": "Chapter 3: Why do we need a Parliament?",
+        "headings": ["Why Should People Decide?", "People and their Representatives", "The Role of the Parliament", "Who are the People in Parliament?"]
+      },
+      {
+        "chapter_name": "Chapter 4: Understanding Laws",
+        "headings": ["Do Laws Apply to All?", "How Do New Laws Come About?", "Unpopular and Controversial Laws"]
+      },
+      {
+        "chapter_name": "Chapter 5: Judiciary",
+        "headings": ["What is the Role of the Judiciary?", "What is an Independent Judiciary?", "What is the Structure of Courts in India?", "What are the Different Branches of the Legal System?", "Does Everyone Have Access to the Courts?"]
+      },
+      {
+        "chapter_name": "Chapter 6: Understanding Our Criminal Justice System",
+        "headings": ["What is the Role of the Police in Investigating a Crime?", "What is the Role of the Public Prosecutor?", "What is the Role of the Judge?", "What is a Fair Trial?"]
+      },
+      {
+        "chapter_name": "Chapter 7: Understanding Marginalisation",
+        "headings": ["Who are Adivasis?", "Adivasis and Stereotyping", "Adivasis and Development", "Minorities and Marginalisation", "Muslims and Marginalisation"]
+      },
+      {
+        "chapter_name": "Chapter 8: Confronting Marginalisation",
+        "headings": ["Invoking Fundamental Rights", "Laws for the Marginalised", "Protecting the Rights of Dalits and Adivasis", "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989"]
+      },
+      {
+        "chapter_name": "Chapter 9: Public Facilities",
+        "headings": ["Water and the People of Chennai", "Water as Part of the Fundamental Right to Life", "Public Facilities", "The Government’s Role"]
+      },
+      {
+        "chapter_name": "Chapter 10: Law and Social Justice",
+        "headings": ["Bhopal Gas Tragedy", "What is a Worker’s Worth?", "Enforcement of Safety Laws", "New Laws to Protect the Environment"]
+      }
+    ]
+  },
+  "Class 9": {
+    "Science": [
+      {
+        "chapter_name": "Chapter 1: Matter in Our Surroundings",
+        "headings": ["Physical Nature of Matter", "Characteristics of Particles of Matter", "States of Matter", "Can Matter Change its State?", "Evaporation"]
+      },
+      {
+        "chapter_name": "Chapter 2: Is Matter Around Us Pure?",
+        "headings": ["What is a Mixture?", "What is a Solution?", "Separating the Components of a Mixture", "Physical and Chemical Changes", "What are the Types of Pure Substances?"]
+      },
+      {
+        "chapter_name": "Chapter 3: Atoms and Molecules",
+        "headings": ["Laws of Chemical Combination", "What is an Atom?", "What is a Molecule?", "Writing Chemical Formulae", "Molecular Mass and Mole Concept"]
+      },
+      {
+        "chapter_name": "Chapter 4: Structure of the Atom",
+        "headings": ["Charged Particles in Matter", "The Structure of an Atom (Thomson's, Rutherford's, Bohr's Model)", "Neutrons", "How are Electrons Distributed in Different Orbits (Shells)?", "Valency", "Atomic Number and Mass Number", "Isotopes", "Isobars"]
+      },
+      {
+        "chapter_name": "Chapter 5: The Fundamental Unit of Life",
+        "headings": ["What are Living Organisms Made Up of?", "What is a Cell Made Up of? What is the Structural Organisation of a Cell?", "Cell Organelles", "Cell Division"]
+      },
+      {
+        "chapter_name": "Chapter 6: Tissues",
+        "headings": ["Are Plants and Animals Made of the Same Types of Tissues?", "Plant Tissues (Meristematic, Permanent)", "Animal Tissues (Epithelial, Connective, Muscular, Nervous)"]
+      },
+      {
+        "chapter_name": "Chapter 7: Diversity in Living Organisms",
+        "headings": ["What is the Basis of Classification?", "Classification and Evolution", "The Hierarchy of Classification–Groups", "Plantae", "Animalia", "Nomenclature"]
+      },
+      {
+        "chapter_name": "Chapter 8: Motion",
+        "headings": ["Describing Motion", "Measuring the Rate of Motion", "Rate of Change of Velocity", "Graphical Representation of Motion", "Equations of Motion by Graphical Method", "Uniform Circular Motion"]
+      },
+      {
+        "chapter_name": "Chapter 9: Force and Laws of Motion",
+        "headings": ["Balanced and Unbalanced Forces", "First Law of Motion", "Inertia and Mass", "Second Law of Motion", "Third Law of Motion", "Conservation of Momentum"]
+      },
+      {
+        "chapter_name": "Chapter 10: Gravitation",
+        "headings": ["Gravitation", "Free Fall", "Mass", "Weight", "Thrust and Pressure", "Archimedes’ Principle", "Relative Density"]
+      },
+      {
+        "chapter_name": "Chapter 11: Work and Energy",
+        "headings": ["Work", "Energy", "Forms of Energy", "Kinetic Energy", "Potential Energy", "Law of Conservation of Energy", "Rate of Doing Work (Power)"]
+      },
+      {
+        "chapter_name": "Chapter 12: Sound",
+        "headings": ["Production of Sound", "Propagation of Sound", "Characteristics of a Sound Wave", "Reflection of Sound", "Range of Hearing", "Applications of Ultrasound", "Structure of Human Ear"]
+      },
+      {
+        "chapter_name": "Chapter 13: Why Do We Fall Ill?",
+        "headings": ["Health and its Failure", "Disease and Its Causes", "Infectious Diseases", "Principles of Treatment", "Principles of Prevention"]
+      },
+      {
+        "chapter_name": "Chapter 14: Natural Resources",
+        "headings": ["The Breath of Life: Air", "Water: A Wonder Liquid", "Mineral Riches in the Soil", "Biogeochemical Cycles (Water, Nitrogen, Carbon, Oxygen)", "Ozone Layer"]
+      },
+      {
+        "chapter_name": "Chapter 15: Improvement in Food Resources",
+        "headings": ["Improvement in Crop Yields", "Manure", "Fertilizers", "Irrigation", "Cropping Patterns", "Crop Protection Management", "Animal Husbandry"]
+      }
+    ],
+    "Mathematics": [
+      {
+        "chapter_name": "Chapter 1: Number Systems",
+        "headings": ["Irrational Numbers", "Real Numbers and their Decimal Expansions", "Representing Real Numbers on the Number Line", "Operations on Real Numbers", "Laws of Exponents for Real Numbers"]
+      },
+      {
+        "chapter_name": "Chapter 2: Polynomials",
+        "headings": ["Polynomials in One Variable", "Zeroes of a Polynomial", "Remainder Theorem", "Factorisation of Polynomials", "Algebraic Identities"]
+      },
+      {
+        "chapter_name": "Chapter 3: Coordinate Geometry",
+        "headings": ["Cartesian System", "Plotting a Point in the Plane if its Coordinates are Given"]
+      },
+      {
+        "chapter_name": "Chapter 4: Linear Equations in Two Variables",
+        "headings": ["Linear Equations", "Solution of a Linear Equation", "Graph of a Linear Equation in Two Variables", "Equations of Lines Parallel to the x-axis and y-axis"]
+      },
+      {
+        "chapter_name": "Chapter 5: Introduction to Euclid's Geometry",
+        "headings": ["Euclid's Definitions, Axioms and Postulates", "Equivalent Versions of Euclid's Fifth Postulate"]
+      },
+      {
+        "chapter_name": "Chapter 6: Lines and Angles",
+        "headings": ["Basic Terms and Definitions", "Intersecting Lines and Non-intersecting Lines", "Pairs of Angles", "Parallel Lines and a Transversal", "Lines Parallel to the Same Line", "Angle Sum Property of a Triangle"]
+      },
+      {
+        "chapter_name": "Chapter 7: Triangles",
+        "headings": ["Congruence of Triangles", "Criteria for Congruence of Triangles", "Some Properties of a Triangle", "Some More Criteria for Congruence of Triangles", "Inequalities in a Triangle"]
+      },
+      {
+        "chapter_name": "Chapter 8: Quadrilaterals",
+        "headings": ["Angle Sum Property of a Quadrilateral", "Types of Quadrilaterals", "Properties of a Parallelogram", "Another Condition for a Quadrilateral to be a Parallelogram", "The Mid-point Theorem"]
+      },
+      {
+        "chapter_name": "Chapter 9: Areas of Parallelograms and Triangles",
+        "headings": ["Figures on the Same Base and Between the Same Parallels", "Parallelograms on the same Base and between the same Parallels", "Triangles on the same Base and between the same Parallels"]
+      },
+      {
+        "chapter_name": "Chapter 10: Circles",
+        "headings": ["Circles and its Related Terms", "Angle Subtended by a Chord at a Point", "Perpendicular from the Centre to a Chord", "Circle through Three Points", "Equal Chords and their Distances from the Centre", "Angle Subtended by an Arc of a Circle", "Cyclic Quadrilaterals"]
+      },
+      {
+        "chapter_name": "Chapter 11: Constructions",
+        "headings": ["Basic Constructions", "Some Constructions of Triangles"]
+      },
+      {
+        "chapter_name": "Chapter 12: Heron's Formula",
+        "headings": ["Area of a Triangle – by Heron's Formula", "Application of Heron's Formula in Finding Areas of Quadrilaterals"]
+      },
+      {
+        "chapter_name": "Chapter 13: Surface Areas and Volumes",
+        "headings": ["Surface Area of a Cuboid and a Cube", "Surface Area of a Right Circular Cylinder", "Surface Area of a Right Circular Cone", "Surface Area of a Sphere", "Volume of a Cuboid", "Volume of a Cylinder", "Volume of a Right Circular Cone", "Volume of a Sphere"]
+      },
+      {
+        "chapter_name": "Chapter 14: Statistics",
+        "headings": ["Collection of Data", "Presentation of Data", "Graphical Representation of Data (Bar graphs, Histograms, Frequency polygons)", "Measures of Central Tendency (Mean, Median, Mode)"]
+      },
+      {
+        "chapter_name": "Chapter 15: Probability",
+        "headings": ["Probability – An Experimental Approach"]
+      }
+    ],
+    "History (India and the Contemporary World - I)": [
+      {
+        "chapter_name": "Chapter 1: The French Revolution",
+        "headings": ["French Society During the Late Eighteenth Century", "The Outbreak of the Revolution", "France Abolishes Monarchy and Becomes a Republic", "Did Women have a Revolution?", "The Abolition of Slavery", "The Revolution and Everyday Life"]
+      },
+      {
+        "chapter_name": "Chapter 2: Socialism in Europe and the Russian Revolution",
+        "headings": ["The Age of Social Change", "The Russian Revolution", "The February Revolution in Petrograd", "What Changed after October?", "The Global Influence of the Russian Revolution and the USSR"]
+      },
+      {
+        "chapter_name": "Chapter 3: Nazism and the Rise of Hitler",
+        "headings": ["Birth of the Weimar Republic", "Hitler's Rise to Power", "The Nazi Worldview", "Youth in Nazi Germany", "Ordinary People and the Crimes Against Humanity"]
+      },
+      {
+        "chapter_name": "Chapter 4: Forest Society and Colonialism",
+        "headings": ["Why Deforestation?", "The Rise of Commercial Forestry", "Rebellion in the Forest", "Forest Transformations in Java"]
+      },
+      {
+        "chapter_name": "Chapter 5: Pastoralists in the Modern World",
+        "headings": ["Pastoral Nomads and their Movements", "Colonial Rule and Pastoral Life", "Pastoralism in Africa"]
+      }
+    ],
+    "Geography (Contemporary India - I)": [
+      {
+        "chapter_name": "Chapter 1: India - Size and Location",
+        "headings": ["Location", "Size", "India and the World", "India's Neighbours"]
+      },
+      {
+        "chapter_name": "Chapter 2: Physical Features of India",
+        "headings": ["Major Physiographic Divisions (The Himalayan Mountains, The Northern Plain, The Peninsular Plateau, The Indian Desert, The Coastal Plains, The Islands)"]
+      },
+      {
+        "chapter_name": "Chapter 3: Drainage",
+        "headings": ["Drainage Systems in India", "The Himalayan Rivers", "The Peninsular Rivers", "Lakes", "Role of Rivers in the Economy", "River Pollution"]
+      },
+      {
+        "chapter_name": "Chapter 4: Climate",
+        "headings": ["Climatic Controls", "Factors Affecting India’s Climate", "The Seasons", "Distribution of Rainfall", "Monsoon as a Unifying Bond"]
+      },
+      {
+        "chapter_name": "Chapter 5: Natural Vegetation and Wildlife",
+        "headings": ["Factors which affect the diversity of flora and fauna", "Types of Vegetation", "Wildlife", "Conservation of Flora and Fauna"]
+      },
+      {
+        "chapter_name": "Chapter 6: Population",
+        "headings": ["Population Size and Distribution", "Population Growth and Processes of Population Change", "Characteristics of Population"]
+      }
+    ],
+    "Political Science (Democratic Politics - I)": [
+      {
+        "chapter_name": "Chapter 1: What is Democracy? Why Democracy?",
+        "headings": ["What is Democracy?", "Features of Democracy", "Why Democracy?", "Broader Meanings of Democracy"]
+      },
+      {
+        "chapter_name": "Chapter 2: Constitutional Design",
+        "headings": ["Democratic Constitution in South Africa", "Why do we need a Constitution?", "Making of the Indian Constitution", "Guiding Values of the Indian Constitution"]
+      },
+      {
+        "chapter_name": "Chapter 3: Electoral Politics",
+        "headings": ["Why Elections?", "What is our System of Elections?", "What makes elections in India democratic?", "Challenges to Free and Fair Elections"]
+      },
+      {
+        "chapter_name": "Chapter 4: Working of Institutions",
+        "headings": ["How is a major policy decision taken?", "Parliament", "Political Executive", "The Judiciary"]
+      },
+      {
+        "chapter_name": "Chapter 5: Democratic Rights",
+        "headings": ["Life without Rights", "Rights in a Democracy", "Rights in the Indian Constitution", "Expanding scope of rights"]
+      }
+    ],
+    "Economics": [
+      {
+        "chapter_name": "Chapter 1: The Story of Village Palampur",
+        "headings": ["Organisation of Production", "Farming in Palampur", "Non-farm Activities in Palampur"]
+      },
+      {
+        "chapter_name": "Chapter 2: People as Resource",
+        "headings": ["Economic Activities by Men and Women", "Quality of Population (Education, Health)", "Unemployment"]
+      },
+      {
+        "chapter_name": "Chapter 3: Poverty as a Challenge",
+        "headings": ["Two Typical Cases of Poverty", "Poverty as seen by Social Scientists", "Poverty Estimates", "Vulnerable Groups", "Inter-State Disparities", "Global Poverty Scenario", "Causes of Poverty", "Anti-Poverty Measures", "The Challenges Ahead"]
+      },
+      {
+        "chapter_name": "Chapter 4: Food Security in India",
+        "headings": ["What is Food Security?", "Why Food Security?", "Who are Food-insecure?", "Food Security in India", "What is Buffer Stock?", "What is the Public Distribution System?", "Current Status of Public Distribution System", "Role of Cooperatives in Food Security"]
+      }
+    ]
+  },
+  "Class 10": {
+    "Science": [
+      {
+        "chapter_name": "Chapter 1: Chemical Reactions and Equations",
+        "headings": ["Chemical Equations", "Types of Chemical Reactions", "Have you observed the effects of oxidation reactions in everyday life? (Corrosion, Rancidity)"]
+      },
+      {
+        "chapter_name": "Chapter 2: Acids, Bases and Salts",
+        "headings": ["Understanding the Chemical Properties of Acids and Bases", "What do all Acids and all Bases have in common?", "How Strong are Acid or Base Solutions?", "More about Salts"]
+      },
+      {
+        "chapter_name": "Chapter 3: Metals and Non-metals",
+        "headings": ["Physical Properties", "Chemical Properties of Metals", "How do Metals and Non-metals React?", "Occurrence of Metals", "Corrosion"]
+      },
+      {
+        "chapter_name": "Chapter 4: Carbon and its Compounds",
+        "headings": ["Bonding in Carbon – The Covalent Bond", "Versatile Nature of Carbon", "Saturated and Unsaturated Carbon Compounds", "Chains, Branches and Rings", "Homologous Series", "Nomenclature of Carbon Compounds", "Chemical properties of Carbon Compounds", "Some important Carbon Compounds", "Soaps and Detergents"]
+      },
+      {
+        "chapter_name": "Chapter 5: Periodic Classification of Elements",
+        "headings": ["Making Order out of Chaos – Early Attempts at the Classification of Elements", "Making Order out of Chaos – Mendeléev’s Periodic Table", "Making Order out of Chaos – The Modern Periodic Table", "Trends in the Modern Periodic Table"]
+      },
+      {
+        "chapter_name": "Chapter 6: Life Processes",
+        "headings": ["What are Life Processes?", "Nutrition", "Respiration", "Transportation", "Excretion"]
+      },
+      {
+        "chapter_name": "Chapter 7: Control and Coordination",
+        "headings": ["Animals – Nervous System", "Coordination in Plants", "Hormones in Animals"]
+      },
+      {
+        "chapter_name": "Chapter 8: How do Organisms Reproduce?",
+        "headings": ["Do Organisms Create Exact Copies of Themselves?", "Modes of Reproduction Used by Single Organisms", "Sexual Reproduction", "Reproduction in Human Beings"]
+      },
+      {
+        "chapter_name": "Chapter 9: Heredity and Evolution",
+        "headings": ["Accumulation of Variation during Reproduction", "Heredity", "Evolution", "Speciation", "Evolution and Classification", "Evolution should not be equated with ‘Progress’"]
+      },
+      {
+        "chapter_name": "Chapter 10: Light – Reflection and Refraction",
+        "headings": ["Reflection of Light", "Spherical Mirrors", "Image Formation by Spherical Mirrors", "Refraction of Light", "Refraction by Spherical Lenses", "Image Formation by Lenses", "Power of a Lens"]
+      },
+      {
+        "chapter_name": "Chapter 11: The Human Eye and the Colourful World",
+        "headings": ["The Human Eye", "Defects of Vision and their Correction", "Refraction of Light through a Prism", "Dispersion of White Light by a Glass Prism", "Atmospheric Refraction", "Scattering of Light"]
+      },
+      {
+        "chapter_name": "Chapter 12: Electricity",
+        "headings": ["Electric Current and Circuit", "Electric Potential and Potential Difference", "Circuit Diagram", "Ohm’s Law", "Factors on which the Resistance of a Conductor depends", "Resistance of a System of Resistors", "Heating Effect of Electric Current", "Electric Power"]
+      },
+      {
+        "chapter_name": "Chapter 13: Magnetic Effects of Electric Current",
+        "headings": ["Magnetic Field and Field Lines", "Magnetic Field due to a Current-Carrying Conductor", "Force on a Current-Carrying Conductor in a Magnetic Field", "Electric Motor", "Electromagnetic Induction", "Electric Generator", "Domestic Electric Circuits"]
+      },
+      {
+        "chapter_name": "Chapter 14: Sources of Energy",
+        "headings": ["What is a Good Source of Energy?", "Conventional Sources of Energy", "Alternative or Non-Conventional Sources of Energy", "Environmental Consequences", "How long will an Energy Source last us?"]
+      },
+      {
+        "chapter_name": "Chapter 15: Our Environment",
+        "headings": ["Eco-system – What are its Components?", "How do our Activities Affect the Environment?"]
+      },
+      {
+        "chapter_name": "Chapter 16: Management of Natural Resources",
+        "headings": ["Why do we need to Manage our Resources?", "Forests and Wildlife", "Water for All", "Coal and Petroleum", "An Overview of Natural Resource Management"]
+      }
+    ],
+    "Mathematics": [
+      {
+        "chapter_name": "Chapter 1: Real Numbers",
+        "headings": ["Euclid’s Division Lemma", "The Fundamental Theorem of Arithmetic", "Revisiting Irrational Numbers", "Revisiting Rational Numbers and Their Decimal Expansions"]
+      },
+      {
+        "chapter_name": "Chapter 2: Polynomials",
+        "headings": ["Geometrical Meaning of the Zeroes of a Polynomial", "Relationship between Zeroes and Coefficients of a Polynomial", "Division Algorithm for Polynomials"]
+      },
+      {
+        "chapter_name": "Chapter 3: Pair of Linear Equations in Two Variables",
+        "headings": ["Pair of Linear Equations in Two Variables", "Graphical Method of Solution of a Pair of Linear Equations", "Algebraic Methods of Solving a Pair of Linear Equations (Substitution, Elimination, Cross-Multiplication)", "Equations Reducible to a Pair of Linear Equations in Two Variables"]
+      },
+      {
+        "chapter_name": "Chapter 4: Quadratic Equations",
+        "headings": ["Quadratic Equations", "Solution of a Quadratic Equation by Factorisation", "Solution of a Quadratic Equation by Completing the Square", "Nature of Roots"]
+      },
+      {
+        "chapter_name": "Chapter 5: Arithmetic Progressions",
+        "headings": ["Arithmetic Progressions", "nth Term of an AP", "Sum of First n Terms of an AP"]
+      },
+      {
+        "chapter_name": "Chapter 6: Triangles",
+        "headings": ["Similar Figures", "Similarity of Triangles", "Criteria for Similarity of Triangles", "Areas of Similar Triangles", "Pythagoras Theorem"]
+      },
+      {
+        "chapter_name": "Chapter 7: Coordinate Geometry",
+        "headings": ["Distance Formula", "Section Formula", "Area of a Triangle"]
+      },
+      {
+        "chapter_name": "Chapter 8: Introduction to Trigonometry",
+        "headings": ["Trigonometric Ratios", "Trigonometric Ratios of Some Specific Angles", "Trigonometric Ratios of Complementary Angles", "Trigonometric Identities"]
+      },
+      {
+        "chapter_name": "Chapter 9: Some Applications of Trigonometry",
+        "headings": ["Heights and Distances"]
+      },
+      {
+        "chapter_name": "Chapter 10: Circles",
+        "headings": ["Tangent to a Circle", "Number of Tangents from a Point on a Circle"]
+      },
+      {
+        "chapter_name": "Chapter 11: Constructions",
+        "headings": ["Division of a Line Segment", "Construction of Tangents to a Circle"]
+      },
+      {
+        "chapter_name": "Chapter 12: Areas Related to Circles",
+        "headings": ["Perimeter and Area of a Circle — A Review", "Areas of Sector and Segment of a Circle", "Areas of Combinations of Plane Figures"]
+      },
+      {
+        "chapter_name": "Chapter 13: Surface Areas and Volumes",
+        "headings": ["Surface Area of a Combination of Solids", "Volume of a Combination of Solids", "Conversion of Solid from One Shape to Another", "Frustum of a Cone"]
+      },
+      {
+        "chapter_name": "Chapter 14: Statistics",
+        "headings": ["Mean of Grouped Data", "Mode of Grouped Data", "Median of Grouped Data", "Graphical Representation of Cumulative Frequency Distribution"]
+      },
+      {
+        "chapter_name": "Chapter 15: Probability",
+        "headings": ["Probability — A Theoretical Approach"]
+      }
+    ],
+    "History (India and the Contemporary World - II)": [
+      {
+        "chapter_name": "Chapter 1: The Rise of Nationalism in Europe",
+        "headings": ["The French Revolution and the Idea of the Nation", "The Making of Nationalism in Europe", "The Age of Revolutions: 1830-1848", "The Making of Germany and Italy", "Visualising the Nation", "Nationalism and Imperialism"]
+      },
+      {
+        "chapter_name": "Chapter 2: Nationalism in India",
+        "headings": ["The First World War, Khilafat and Non-Cooperation", "Differing Strands within the Movement", "Towards Civil Disobedience", "The Sense of Collective Belonging"]
+      },
+      {
+        "chapter_name": "Chapter 3: The Making of a Global World",
+        "headings": ["The Pre-Modern World", "The Nineteenth Century (1815-1914)", "The Inter-war Economy", "Rebuilding a World Economy: The Post-war Era"]
+      },
+      {
+        "chapter_name": "Chapter 4: The Age of Industrialisation",
+        "headings": ["Before the Industrial Revolution", "Hand Labour and Steam Power", "Industrialisation in the Colonies", "Factories Come Up", "The Peculiarities of Industrial Growth", "Market for Goods"]
+      },
+      {
+        "chapter_name": "Chapter 5: Print Culture and the Modern World",
+        "headings": ["The First Printed Books", "Print Comes to Europe", "The Print Revolution and Its Impact", "The Nineteenth Century", "India and the World of Print", "Print and Censorship"]
+      }
+    ],
+    "Geography (Contemporary India - II)": [
+      {
+        "chapter_name": "Chapter 1: Resources and Development",
+        "headings": ["Types of Resources", "Development of Resources", "Resource Planning in India", "Land Resources", "Soil as a Resource", "Classification of Soils"]
+      },
+      {
+        "chapter_name": "Chapter 2: Forest and Wildlife Resources",
+        "headings": ["Conservation of Forest and Wildlife in India", "Types and Distribution of Forest and Wildlife Resources", "Community and Conservation"]
+      },
+      {
+        "chapter_name": "Chapter 3: Water Resources",
+        "headings": ["Water Scarcity and the Need for Water Conservation and Management", "Multi-Purpose River Projects and Integrated Water Resources Management", "Rainwater Harvesting"]
+      },
+      {
+        "chapter_name": "Chapter 4: Agriculture",
+        "headings": ["Types of Farming", "Cropping Pattern", "Major Crops", "Technological and Institutional Reforms", "Contribution of agriculture to the national economy, employment and output"]
+      },
+      {
+        "chapter_name": "Chapter 5: Minerals and Energy Resources",
+        "headings": ["What is a mineral?", "Mode of occurrence of Minerals", "Ferrous and Non-Ferrous Minerals", "Non-Metallic Minerals", "Rock Minerals", "Conservation of Minerals", "Energy Resources (Conventional and Non-Conventional)", "Conservation of Energy Resources"]
+      },
+      {
+        "chapter_name": "Chapter 6: Manufacturing Industries",
+        "headings": ["Importance of Manufacturing", "Contribution of Industry to National Economy", "Industrial Location", "Classification of Industries", "Agro-based Industries", "Mineral-based Industries", "Industrial pollution and environmental degradation", "Control of Environmental Degradation"]
+      },
+      {
+        "chapter_name": "Chapter 7: Lifelines of National Economy",
+        "headings": ["Transport (Roadways, Railways, Pipelines, Waterways, Airways)", "Communication", "International Trade", "Tourism as a Trade"]
+      }
+    ],
+    "Political Science (Democratic Politics - II)": [
+      {
+        "chapter_name": "Chapter 1: Power-sharing",
+        "headings": ["Belgium and Sri Lanka", "Why power-sharing is desirable?", "Forms of power-sharing"]
+      },
+      {
+        "chapter_name": "Chapter 2: Federalism",
+        "headings": ["What is federalism?", "What makes India a federal country?", "How is federalism practised?", "Decentralisation in India"]
+      },
+      {
+        "chapter_name": "Chapter 3: Gender, Religion and Caste",
+        "headings": ["Gender and politics", "Religion, communalism and politics", "Caste and politics"]
+      },
+      {
+        "chapter_name": "Chapter 4: Political Parties",
+        "headings": ["Why do we need political parties?", "How many parties should we have?", "National Parties", "State Parties", "Challenges to Political Parties", "How can parties be reformed?"]
+      },
+      {
+        "chapter_name": "Chapter 5: Outcomes of Democracy",
+        "headings": ["How do we assess democracy’s outcomes?", "Accountable, responsive and legitimate government", "Economic growth and development", "Reduction of inequality and poverty", "Accommodation of social diversity", "Dignity and freedom of the citizens"]
+      }
+    ],
+    "Economics (Understanding Economic Development)": [
+      {
+        "chapter_name": "Chapter 1: Development",
+        "headings": ["What Development Promises – Different People, Different Goals", "Income and Other Goals", "National Development", "How to compare different countries or states?", "Income and other criteria", "Public Facilities", "Sustainability of Development"]
+      },
+      {
+        "chapter_name": "Chapter 2: Sectors of the Indian Economy",
+        "headings": ["Sectors of Economic Activities", "Comparing the three sectors", "Primary, Secondary and Tertiary Sectors in India", "Where are most of the people employed?", "How to create more employment?", "Division of sectors as organised and unorganised", "Sectors in terms of ownership: Public and Private Sectors"]
+      },
+      {
+        "chapter_name": "Chapter 3: Money and Credit",
+        "headings": ["Money as a medium of exchange", "Modern forms of money", "Loan activities of banks", "Two different credit situations", "Terms of credit", "Formal Sector Credit in India", "Self-Help Groups for the Poor"]
+      },
+      {
+        "chapter_name": "Chapter 4: Globalisation and the Indian Economy",
+        "headings": ["Production across countries", "Interlinking production across countries", "Foreign Trade and integration of markets", "What is globalisation?", "Factors that have enabled Globalisation", "World Trade Organisation", "Impact of Globalisation in India", "The Struggle for a Fair Globalisation"]
+      },
+      {
+        "chapter_name": "Chapter 5: Consumer Rights",
+        "headings": ["The consumer in the marketplace", "Consumer Movement", "Consumer Rights", "Taking the consumer movement forward"]
+      }
+    ]
+  }
+}
